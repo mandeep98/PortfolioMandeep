@@ -1,0 +1,2501 @@
+customer_id,signup_date,country,city,customer_segment,acquisition_source,email_opt_in
+C00001,2026-09-11,India,Bengaluru,New,Paid Search,Y
+C00002,2026-08-16,Australia,Melbourne,New,Organic Search,Y
+C00003,2026-05-02,United States,New York,Returning,Direct,N
+C00004,2026-05-16,United States,Austin,Loyal,Organic Search,Y
+C00005,2026-05-23,Canada,Toronto,New,Social,Y
+C00006,2026-05-02,India,Bengaluru,Loyal,Referral,N
+C00007,2026-05-10,India,Delhi,At Risk,Email,Y
+C00008,2026-07-10,Australia,Brisbane,Returning,Social,Y
+C00009,2026-09-01,India,Mumbai,Loyal,Organic Search,Y
+C00010,2026-05-13,India,Pune,Returning,Social,Y
+C00011,2026-05-16,United Kingdom,Bristol,New,Direct,Y
+C00012,2026-03-02,Australia,Brisbane,Loyal,Paid Search,N
+C00013,2026-07-22,Canada,Calgary,Returning,Paid Search,N
+C00014,2026-07-26,India,Delhi,Loyal,Email,N
+C00015,2026-08-05,India,Hyderabad,Loyal,Social,Y
+C00016,2026-06-17,Canada,Calgary,Returning,Social,Y
+C00017,2026-04-14,United States,Austin,Loyal,Email,N
+C00018,2026-06-14,United Kingdom,Bristol,Returning,Organic Search,Y
+C00019,2026-03-04,United States,Seattle,Returning,Email,N
+C00020,2026-05-07,Australia,Melbourne,At Risk,Organic Search,Y
+C00021,2026-07-13,Australia,Brisbane,New,Social,N
+C00022,2026-04-07,United States,Austin,At Risk,Paid Search,Y
+C00023,2026-03-23,United Kingdom,Bristol,New,Social,Y
+C00024,2026-05-16,Australia,Sydney,Returning,Email,Y
+C00025,2026-06-26,India,Bengaluru,New,Paid Search,Y
+C00026,2026-05-21,India,Delhi,At Risk,Referral,Y
+C00027,2026-03-16,United States,Chicago,New,Referral,N
+C00028,2026-05-03,United States,Chicago,Loyal,Email,N
+C00029,2026-04-19,Canada,Toronto,New,Organic Search,N
+C00030,2026-04-08,India,Mumbai,Returning,Organic Search,Y
+C00031,2026-06-08,India,Delhi,Loyal,Organic Search,Y
+C00032,2026-03-14,United Kingdom,London,Returning,Direct,N
+C00033,2026-05-23,United States,Seattle,New,Organic Search,N
+C00034,2026-05-11,United Kingdom,Manchester,Loyal,Organic Search,Y
+C00035,2026-06-05,India,Bengaluru,Loyal,Organic Search,Y
+C00036,2026-07-18,United States,Seattle,New,Paid Search,N
+C00037,2026-07-24,Canada,Toronto,Returning,Referral,Y
+C00038,2026-03-22,India,Delhi,At Risk,Paid Search,Y
+C00039,2026-04-29,Canada,Toronto,Loyal,Organic Search,Y
+C00040,2026-08-25,Canada,Vancouver,At Risk,Email,N
+C00041,2026-03-22,Canada,Calgary,Returning,Email,Y
+C00042,2026-05-31,United States,New York,Returning,Referral,Y
+C00043,2026-07-21,United Kingdom,Bristol,Returning,Referral,Y
+C00044,2026-03-29,India,Mumbai,New,Organic Search,Y
+C00045,2026-08-31,Canada,Calgary,New,Referral,Y
+C00046,2026-08-07,Australia,Brisbane,Returning,Referral,N
+C00047,2026-07-22,United Kingdom,Bristol,New,Social,N
+C00048,2026-03-24,United States,Austin,Returning,Organic Search,Y
+C00049,2026-03-31,Canada,Toronto,New,Paid Search,N
+C00050,2026-06-29,United States,New York,Loyal,Social,N
+C00051,2026-06-03,United States,Austin,Returning,Direct,Y
+C00052,2026-07-15,Australia,Brisbane,New,Paid Search,N
+C00053,2026-08-21,India,Hyderabad,New,Social,Y
+C00054,2026-07-23,United Kingdom,Bristol,Loyal,Referral,N
+C00055,2026-07-24,United Kingdom,Bristol,Returning,Social,Y
+C00056,2026-06-26,India,Mumbai,Returning,Social,Y
+C00057,2026-04-27,Canada,Vancouver,Returning,Organic Search,Y
+C00058,2026-03-17,United States,Austin,Returning,Paid Search,N
+C00059,2026-08-10,United States,Austin,Loyal,Organic Search,N
+C00060,2026-02-23,United States,New York,Returning,Referral,N
+C00061,2026-08-21,Australia,Sydney,Loyal,Paid Search,N
+C00062,2026-08-03,India,Bengaluru,Loyal,Email,Y
+C00063,2026-08-11,United Kingdom,Bristol,New,Organic Search,N
+C00064,2026-08-02,United States,Seattle,New,Paid Search,Y
+C00065,2026-02-26,India,Pune,New,Organic Search,N
+C00066,2026-03-22,United Kingdom,Manchester,Returning,Referral,N
+C00067,2026-08-28,India,Bengaluru,New,Social,Y
+C00068,2026-03-29,India,Bengaluru,Loyal,Social,N
+C00069,2026-03-31,Australia,Melbourne,Loyal,Paid Search,N
+C00070,2026-04-12,India,Hyderabad,At Risk,Referral,Y
+C00071,2026-04-17,United Kingdom,Bristol,At Risk,Referral,N
+C00072,2026-06-18,India,Bengaluru,Returning,Social,N
+C00073,2026-03-21,United Kingdom,London,Returning,Email,Y
+C00074,2026-03-28,Australia,,Returning,Organic Search,N
+C00075,2026-07-06,United Kingdom,Bristol,Returning,Social,N
+C00076,2026-05-23,Canada,Toronto,Returning,Direct,Y
+C00077,2026-06-22,India,Hyderabad,New,Paid Search,N
+C00078,2026-06-21,United States,New York,New,Email,Y
+C00079,2026-06-12,Canada,Calgary,Returning,Direct,N
+C00080,2026-05-06,Canada,Toronto,Returning,Organic Search,Y
+C00081,2026-06-17,Canada,Calgary,Returning,Organic Search,Y
+C00082,2026-04-15,India,Pune,Returning,Referral,N
+C00083,2026-04-19,Canada,Calgary,Loyal,Email,N
+C00084,2026-04-30,United States,Austin,Loyal,Direct,N
+C00085,2026-05-09,Australia,Sydney,New,Organic Search,N
+C00086,2026-06-14,United States,Austin,Loyal,Organic Search,Y
+C00087,2026-06-27,United States,Chicago,Loyal,Organic Search,N
+C00088,2026-06-12,Canada,Vancouver,Returning,Paid Search,N
+C00089,2026-05-04,Canada,Calgary,New,Referral,N
+C00090,2026-09-29,Canada,Vancouver,New,Email,N
+C00091,2026-05-05,Australia,Brisbane,Loyal,Email,Y
+C00092,2026-05-13,United Kingdom,London,Returning,Direct,N
+C00093,2026-06-01,United States,Chicago,At Risk,Referral,Y
+C00094,2026-04-08,Canada,Calgary,New,Direct,N
+C00095,2026-04-16,United States,New York,New,Social,Y
+C00096,2026-05-31,Canada,Vancouver,New,Email,N
+C00097,2026-04-04,India,Hyderabad,New,Social,Y
+C00098,2026-02-18,India,Delhi,At Risk,Paid Search,Y
+C00099,2026-07-08,Australia,Sydney,Returning,Organic Search,Y
+C00100,2026-02-19,Canada,Vancouver,New,Referral,Y
+C00101,2026-05-20,United States,New York,At Risk,Referral,N
+C00102,2026-06-16,Canada,Calgary,Returning,Direct,Y
+C00103,2026-03-25,India,Bengaluru,Loyal,Referral,Y
+C00104,2026-08-13,Australia,Brisbane,Returning,Social,Y
+C00105,2026-03-10,Australia,Sydney,Loyal,Email,Y
+C00106,2026-06-10,Canada,Vancouver,Loyal,Email,Y
+C00107,2026-03-05,Australia,Brisbane,Loyal,Referral,N
+C00108,2026-06-03,Canada,Calgary,Returning,Social,Y
+C00109,2026-07-17,India,Pune,New,Email,N
+C00110,2026-08-25,United Kingdom,Manchester,New,Paid Search,N
+C00111,2026-05-23,United Kingdom,Bristol,Loyal,Social,Y
+C00112,2026-06-19,Australia,Sydney,Loyal,Email,Y
+C00113,2026-04-03,Canada,Vancouver,Returning,Organic Search,Y
+C00114,2026-07-01,United Kingdom,Bristol,New,Direct,N
+C00115,2026-04-15,Canada,Vancouver,Returning,Direct,N
+C00116,2026-03-04,United Kingdom,Manchester,New,Paid Search,Y
+C00117,2026-05-20,United States,Chicago,New,Direct,N
+C00118,2026-04-21,United Kingdom,Bristol,Returning,Organic Search,Y
+C00119,2026-06-27,United Kingdom,London,New,Direct,Y
+C00120,2026-07-24,United Kingdom,Bristol,New,Paid Search,N
+C00121,2026-09-03,India,Bengaluru,Returning,Email,N
+C00122,2026-08-04,United States,Seattle,New,Organic Search,N
+C00123,2026-08-19,Canada,Calgary,Returning,Paid Search,Y
+C00124,2026-05-21,Australia,Sydney,New,Email,Y
+C00125,2026-05-24,Australia,Melbourne,New,Referral,N
+C00126,2026-04-17,United Kingdom,London,Returning,Direct,Y
+C00127,2026-03-07,United States,Austin,Returning,Paid Search,Y
+C00128,2026-03-17,United States,Chicago,New,Email,N
+C00129,2026-08-07,United Kingdom,Manchester,Loyal,Direct,N
+C00130,2026-02-21,India,Bengaluru,Loyal,Direct,Y
+C00131,2026-08-06,Canada,Toronto,Returning,Social,Y
+C00132,2026-07-27,India,Bengaluru,Returning,Referral,N
+C00133,2026-07-30,Canada,Calgary,New,Email,N
+C00134,2026-04-16,Australia,Melbourne,New,Organic Search,N
+C00135,2026-03-16,United Kingdom,London,New,Direct,Y
+C00136,2026-03-09,United Kingdom,London,Returning,Direct,N
+C00137,2026-07-23,United Kingdom,Manchester,Returning,Email,Y
+C00138,2026-05-30,Canada,Vancouver,New,Organic Search,Y
+C00139,2026-06-01,United Kingdom,Manchester,New,Email,Y
+C00140,2026-07-30,Canada,Vancouver,New,Email,Y
+C00141,2026-05-01,Australia,Sydney,New,Social,N
+C00142,2026-08-01,Canada,Vancouver,Returning,Social,N
+C00143,2026-07-02,Canada,Calgary,Returning,Paid Search,Y
+C00144,2026-03-13,United Kingdom,Bristol,Returning,Paid Search,Y
+C00145,2026-08-12,Canada,Toronto,Returning,Direct,N
+C00146,2026-02-19,Australia,Melbourne,Loyal,Email,Y
+C00147,2026-03-22,Canada,Vancouver,New,Referral,Y
+C00148,2026-07-11,India,Pune,New,Referral,N
+C00149,2026-07-06,India,Bengaluru,Loyal,Referral,N
+C00150,2026-05-13,United States,Seattle,New,Referral,N
+C00151,2026-07-05,Canada,Toronto,At Risk,Paid Search,N
+C00152,2026-04-20,United States,Austin,Loyal,Direct,N
+C00153,2026-04-04,Canada,Calgary,At Risk,Email,Y
+C00154,2026-05-02,United States,Austin,Loyal,Email,Y
+C00155,2026-04-07,Australia,Brisbane,New,Direct,Y
+C00156,2026-05-23,India,Bengaluru,New,Direct,N
+C00157,2026-07-02,India,Hyderabad,Returning,Social,N
+C00158,2026-08-31,Australia,Sydney,New,Direct,N
+C00159,2026-08-05,United States,New York,Loyal,Direct,Y
+C00160,2026-08-03,Canada,Vancouver,At Risk,Organic Search,N
+C00161,2026-06-09,India,Bengaluru,Returning,Paid Search,N
+C00162,2026-03-30,Australia,Sydney,New,Organic Search,N
+C00163,2026-02-23,Australia,Melbourne,At Risk,Paid Search,Y
+C00164,2026-03-07,Canada,Vancouver,New,Organic Search,N
+C00165,2026-03-15,United Kingdom,London,New,Social,N
+C00166,2026-02-22,Canada,Vancouver,Loyal,Paid Search,N
+C00167,2026-07-20,Canada,Vancouver,Returning,Referral,N
+C00168,2026-09-18,United Kingdom,Bristol,Returning,Organic Search,Y
+C00169,2026-05-19,Australia,Melbourne,Loyal,Paid Search,N
+C00170,2026-03-04,United States,Austin,Returning,Direct,Y
+C00171,2026-04-04,India,Delhi,New,Email,Y
+C00172,2026-06-15,Australia,Sydney,New,Social,N
+C00173,2026-06-30,Canada,Toronto,Loyal,Social,N
+C00174,2026-07-25,United States,Seattle,At Risk,Social,N
+C00175,2026-04-08,India,Mumbai,Loyal,Paid Search,N
+C00176,2026-05-05,Australia,Melbourne,New,Referral,Y
+C00177,2026-06-11,Canada,Calgary,Returning,Referral,N
+C00178,2026-08-17,United Kingdom,London,Returning,Referral,N
+C00179,2026-07-17,Australia,Sydney,Returning,Email,N
+C00180,2026-07-11,Canada,Toronto,At Risk,Social,N
+C00181,2026-07-23,India,Hyderabad,New,Email,N
+C00182,2026-05-23,Australia,Brisbane,Loyal,Email,Y
+C00183,2026-03-23,Canada,Vancouver,New,Social,Y
+C00184,2026-06-09,Canada,Toronto,Loyal,Organic Search,N
+C00185,2026-03-11,Australia,Sydney,Returning,Paid Search,Y
+C00186,2026-08-20,Canada,Toronto,Returning,Referral,Y
+C00187,2026-05-23,India,Mumbai,Loyal,Paid Search,Y
+C00188,2026-07-16,Australia,Sydney,Loyal,Paid Search,N
+C00189,2026-03-02,United States,Austin,Loyal,Paid Search,Y
+C00190,2026-07-19,Australia,Sydney,New,Organic Search,Y
+C00191,2026-06-21,India,Mumbai,Returning,Organic Search,Y
+C00192,2026-07-27,United Kingdom,Bristol,Returning,Organic Search,Y
+C00193,2026-05-28,Canada,Vancouver,Returning,Organic Search,N
+C00194,2026-08-05,Australia,Brisbane,New,Direct,N
+C00195,2026-02-19,Canada,Toronto,At Risk,Email,N
+C00196,2026-05-13,India,Pune,New,Organic Search,N
+C00197,2026-06-29,Australia,Sydney,New,Direct,N
+C00198,2026-04-04,Canada,Vancouver,Returning,Referral,N
+C00199,2026-02-10,India,Hyderabad,Loyal,Paid Search,N
+C00200,2026-06-30,Canada,Vancouver,Loyal,Email,N
+C00201,2026-06-09,India,Bengaluru,Returning,Social,Y
+C00202,2026-07-20,Canada,Toronto,New,Organic Search,N
+C00203,2026-03-15,United States,Austin,Returning,Email,N
+C00204,2026-08-06,Canada,Calgary,New,Organic Search,Y
+C00205,2026-03-16,United States,Chicago,Loyal,Social,N
+C00206,2026-06-27,India,Mumbai,Loyal,Referral,Y
+C00207,2026-04-08,Australia,Brisbane,New,Paid Search,N
+C00208,2026-05-29,United Kingdom,London,New,Paid Search,N
+C00209,2026-08-12,India,Delhi,New,Referral,Y
+C00210,2026-05-15,Canada,Vancouver,New,Social,N
+C00211,2026-03-07,Australia,Sydney,New,Referral,Y
+C00212,2026-06-21,India,Pune,Returning,Email,N
+C00213,2026-07-25,United Kingdom,Bristol,New,Email,Y
+C00214,2026-03-24,United Kingdom,Bristol,Returning,Direct,N
+C00215,2026-07-01,India,Hyderabad,New,Paid Search,N
+C00216,2026-08-14,United States,Austin,New,Organic Search,Y
+C00217,2026-04-24,Canada,Toronto,Returning,Direct,Y
+C00218,2026-05-03,Australia,Brisbane,Loyal,Organic Search,N
+C00219,2026-04-13,India,Pune,At Risk,Social,N
+C00220,2026-06-04,Australia,Brisbane,Returning,Organic Search,N
+C00221,2026-05-20,India,Hyderabad,Returning,Direct,N
+C00222,2026-06-05,India,Delhi,New,Referral,N
+C00223,2026-08-06,Australia,Melbourne,Loyal,Paid Search,N
+C00224,2026-08-14,United States,New York,Returning,Paid Search,N
+C00225,2026-04-10,United Kingdom,London,New,Paid Search,N
+C00226,2026-07-26,United States,Chicago,Loyal,Direct,Y
+C00227,2026-03-25,United States,Seattle,Loyal,Referral,N
+C00228,2026-03-30,Australia,Brisbane,New,Direct,N
+C00229,2026-04-15,United States,Seattle,Returning,Social,N
+C00230,2026-08-09,Australia,Brisbane,New,Email,N
+C00231,2026-08-10,India,Bengaluru,New,Organic Search,N
+C00232,2026-04-10,Canada,Calgary,Loyal,Email,Y
+C00233,2026-03-30,United Kingdom,Bristol,New,Organic Search,N
+C00234,2026-06-20,India,Delhi,Returning,Paid Search,Y
+C00235,2026-05-09,United States,Chicago,Returning,Social,N
+C00236,2026-06-19,Canada,Calgary,New,Direct,N
+C00237,2026-05-15,India,Hyderabad,Returning,Social,N
+C00238,2026-07-15,Australia,,Returning,Paid Search,N
+C00239,2026-03-31,United Kingdom,Bristol,Returning,Referral,Y
+C00240,2026-04-04,United Kingdom,Bristol,Loyal,Paid Search,Y
+C00241,2026-04-16,Canada,Toronto,Returning,Paid Search,Y
+C00242,2026-04-11,United Kingdom,London,At Risk,Paid Search,Y
+C00243,2026-08-08,United Kingdom,Bristol,Loyal,Referral,Y
+C00244,2026-03-04,United Kingdom,Bristol,Returning,Paid Search,Y
+C00245,2026-08-05,Australia,Melbourne,New,Social,Y
+C00246,2026-03-16,Canada,Calgary,Loyal,Paid Search,Y
+C00247,2026-05-30,United Kingdom,London,Returning,Referral,N
+C00248,2026-07-09,Canada,,Returning,Email,Y
+C00249,2026-03-08,United States,Austin,New,Email,N
+C00250,2026-08-20,Australia,Brisbane,Loyal,Social,Y
+C00251,2026-06-21,United States,Chicago,Loyal,Organic Search,Y
+C00252,2026-07-02,Canada,Toronto,Returning,Email,N
+C00253,2026-04-30,United States,Austin,New,Social,Y
+C00254,2026-07-03,United Kingdom,London,New,Email,Y
+C00255,2026-05-18,Canada,Toronto,At Risk,Organic Search,N
+C00256,2026-07-29,United States,Seattle,New,Social,Y
+C00257,2026-07-04,United Kingdom,London,Returning,Referral,N
+C00258,2026-08-26,India,Pune,Returning,Organic Search,Y
+C00259,2026-06-15,United States,New York,Returning,Paid Search,N
+C00260,2026-03-26,United States,New York,Returning,Social,Y
+C00261,2026-04-16,Australia,Brisbane,Returning,Email,N
+C00262,2026-03-16,India,Bengaluru,New,Organic Search,N
+C00263,2026-05-20,India,Delhi,Loyal,Direct,N
+C00264,2026-08-12,United States,Austin,Loyal,Paid Search,N
+C00265,2026-03-04,Canada,Toronto,New,Email,Y
+C00266,2026-06-13,United Kingdom,London,Loyal,Social,N
+C00267,2026-06-13,Australia,Brisbane,Returning,Organic Search,Y
+C00268,2026-06-26,United Kingdom,London,Loyal,Social,N
+C00269,2026-05-26,India,Pune,Loyal,Email,N
+C00270,2026-05-10,United States,Seattle,Returning,Referral,N
+C00271,2026-04-20,India,Pune,Returning,Paid Search,N
+C00272,2026-07-11,United Kingdom,,Returning,Social,N
+C00273,2026-04-24,Australia,Brisbane,Returning,Email,Y
+C00274,2026-03-24,United Kingdom,Manchester,Returning,Organic Search,Y
+C00275,2026-06-01,Canada,Calgary,Returning,Organic Search,Y
+C00276,2026-03-31,Australia,Melbourne,New,Organic Search,Y
+C00277,2026-05-25,United Kingdom,Bristol,New,Paid Search,N
+C00278,2026-05-26,United Kingdom,London,Returning,Referral,N
+C00279,2026-06-23,Canada,Vancouver,New,Organic Search,Y
+C00280,2026-04-29,United States,Seattle,At Risk,Organic Search,N
+C00281,2026-03-02,United Kingdom,London,At Risk,Social,N
+C00282,2026-07-09,United States,New York,Returning,Direct,N
+C00283,2026-04-03,India,Bengaluru,Returning,Direct,Y
+C00284,2026-04-03,Australia,Melbourne,Loyal,Direct,Y
+C00285,2026-04-07,United Kingdom,London,At Risk,Paid Search,Y
+C00286,2026-08-18,Canada,Calgary,Returning,Email,Y
+C00287,2026-07-14,Australia,Melbourne,Returning,Direct,N
+C00288,2026-06-06,Australia,Melbourne,Loyal,Organic Search,Y
+C00289,2026-02-22,United Kingdom,Manchester,Returning,Referral,N
+C00290,2026-04-22,United States,Chicago,Loyal,Paid Search,N
+C00291,2026-09-09,Australia,Sydney,Returning,Social,Y
+C00292,2026-07-09,United States,Chicago,New,Referral,N
+C00293,2026-06-10,India,Hyderabad,New,Direct,N
+C00294,2026-03-23,Australia,Brisbane,Returning,Referral,Y
+C00295,2026-03-25,United States,Austin,Loyal,Referral,Y
+C00296,2026-07-14,India,Hyderabad,New,Paid Search,N
+C00297,2026-02-20,Australia,Melbourne,Loyal,Referral,N
+C00298,2026-04-15,United Kingdom,Bristol,Returning,Email,Y
+C00299,2026-07-20,India,Pune,Returning,Paid Search,N
+C00300,2026-07-16,Australia,Brisbane,New,Social,N
+C00301,2026-05-31,United States,New York,New,Email,Y
+C00302,2026-04-23,United Kingdom,London,New,Social,N
+C00303,2026-05-01,Australia,Sydney,Loyal,Referral,N
+C00304,2026-07-23,United States,Seattle,Returning,Social,N
+C00305,2026-09-07,India,Pune,Returning,Paid Search,Y
+C00306,2026-05-06,Australia,Sydney,New,Referral,N
+C00307,2026-03-17,United Kingdom,London,Returning,Social,N
+C00308,2026-05-02,Canada,Vancouver,New,Referral,Y
+C00309,2026-03-31,United Kingdom,London,Returning,Email,N
+C00310,2026-03-19,Australia,Sydney,New,Organic Search,N
+C00311,2026-06-11,United Kingdom,Manchester,Loyal,Paid Search,N
+C00312,2026-07-24,Australia,Sydney,New,Social,N
+C00313,2026-04-16,Australia,Brisbane,Loyal,Paid Search,N
+C00314,2026-05-22,Australia,Melbourne,At Risk,Direct,N
+C00315,2026-06-08,Australia,Brisbane,Returning,Direct,N
+C00316,2026-08-20,Canada,Vancouver,Returning,Email,N
+C00317,2026-04-01,India,Bengaluru,At Risk,Referral,Y
+C00318,2026-04-04,India,Mumbai,Returning,Direct,N
+C00319,2026-02-23,United States,New York,Returning,Direct,Y
+C00320,2026-08-25,United States,Austin,Returning,Email,Y
+C00321,2026-05-14,Canada,Calgary,At Risk,Direct,Y
+C00322,2026-04-04,United States,Austin,At Risk,Email,N
+C00323,2026-07-17,United Kingdom,Bristol,New,Social,N
+C00324,2026-04-12,Australia,Sydney,New,Social,Y
+C00325,2026-07-04,United Kingdom,London,Returning,Email,N
+C00326,2026-06-08,Canada,Calgary,New,Organic Search,N
+C00327,2026-06-23,Canada,Toronto,New,Social,Y
+C00328,2026-05-21,United Kingdom,Manchester,Loyal,Paid Search,Y
+C00329,2026-07-22,Australia,Brisbane,Returning,Paid Search,Y
+C00330,2026-03-19,Australia,Sydney,New,Referral,Y
+C00331,2026-07-25,United States,Seattle,New,Email,Y
+C00332,2026-09-04,United States,Chicago,Returning,Email,N
+C00333,2026-06-09,United States,Austin,Returning,Organic Search,Y
+C00334,2026-09-19,Australia,Sydney,Returning,Paid Search,Y
+C00335,2026-04-08,Canada,Calgary,At Risk,Social,Y
+C00336,2026-06-22,India,Hyderabad,New,Social,N
+C00337,2026-03-24,Canada,Calgary,Returning,Paid Search,N
+C00338,2026-08-03,United Kingdom,London,New,Direct,N
+C00339,2026-06-15,United Kingdom,Bristol,New,Social,Y
+C00340,2026-04-21,United States,Seattle,Loyal,Referral,N
+C00341,2026-06-02,India,Delhi,New,Paid Search,N
+C00342,2026-05-30,United Kingdom,Manchester,Returning,Email,N
+C00343,2026-06-22,United Kingdom,Bristol,Returning,Social,N
+C00344,2026-08-28,United States,New York,Returning,Paid Search,N
+C00345,2026-03-23,Australia,Melbourne,Returning,Direct,N
+C00346,2026-03-11,United Kingdom,London,At Risk,Email,Y
+C00347,2026-03-22,Canada,Vancouver,Loyal,Email,Y
+C00348,2026-03-28,United States,New York,Returning,Referral,N
+C00349,2026-03-17,India,Delhi,Loyal,Referral,Y
+C00350,2026-03-26,Australia,Sydney,New,Referral,N
+C00351,2026-02-21,India,Hyderabad,Returning,Referral,N
+C00352,2026-04-15,India,Hyderabad,Returning,Referral,Y
+C00353,2026-05-18,Australia,Melbourne,Loyal,Email,N
+C00354,2026-07-14,India,Delhi,New,Social,Y
+C00355,2026-09-14,Australia,Sydney,At Risk,Email,Y
+C00356,2026-04-30,United Kingdom,London,Loyal,Direct,N
+C00357,2026-05-24,United Kingdom,Manchester,Returning,Direct,Y
+C00358,2026-07-13,United Kingdom,Bristol,Returning,Paid Search,Y
+C00359,2026-08-15,India,Pune,Returning,Referral,N
+C00360,2026-06-17,Australia,Sydney,New,Social,Y
+C00361,2026-08-12,United Kingdom,Bristol,Loyal,Organic Search,N
+C00362,2026-08-12,Australia,Sydney,New,Referral,Y
+C00363,2026-04-13,Canada,Calgary,Loyal,Paid Search,Y
+C00364,2026-04-25,Canada,Calgary,New,Organic Search,Y
+C00365,2026-06-02,Australia,Brisbane,Returning,Referral,N
+C00366,2026-07-11,United States,Chicago,At Risk,Referral,Y
+C00367,2026-06-03,Canada,Toronto,Returning,Referral,Y
+C00368,2026-04-12,Canada,Toronto,At Risk,Direct,N
+C00369,2026-06-25,Australia,Melbourne,Returning,Social,N
+C00370,2026-04-16,United States,Chicago,Loyal,Social,Y
+C00371,2026-08-22,Canada,Vancouver,At Risk,Referral,Y
+C00372,2026-06-16,Canada,Toronto,New,Organic Search,N
+C00373,2026-08-12,United Kingdom,Bristol,Loyal,Organic Search,N
+C00374,2026-03-20,Canada,Calgary,New,Organic Search,Y
+C00375,2026-03-18,Australia,Sydney,Returning,Social,N
+C00376,2026-08-06,India,Mumbai,At Risk,Organic Search,N
+C00377,2026-03-14,United States,Chicago,Returning,Paid Search,N
+C00378,2026-05-25,United Kingdom,Bristol,Returning,Social,N
+C00379,2026-05-18,United Kingdom,Manchester,Returning,Direct,N
+C00380,2026-07-03,United Kingdom,Manchester,Returning,Referral,Y
+C00381,2026-08-13,United States,Seattle,New,Paid Search,N
+C00382,2026-06-01,United States,Chicago,Returning,Direct,N
+C00383,2026-05-14,United Kingdom,Bristol,Loyal,Email,Y
+C00384,2026-06-27,United Kingdom,Bristol,Returning,Paid Search,Y
+C00385,2026-09-15,Australia,Sydney,At Risk,Direct,Y
+C00386,2026-04-26,India,Mumbai,New,Paid Search,Y
+C00387,2026-04-23,United States,Austin,New,Direct,N
+C00388,2026-07-28,Canada,Calgary,Returning,Organic Search,Y
+C00389,2026-06-26,Australia,Melbourne,New,Direct,N
+C00390,2026-09-01,United States,New York,Returning,Paid Search,Y
+C00391,2026-04-05,Australia,Melbourne,New,Email,Y
+C00392,2026-05-19,United Kingdom,Bristol,New,Direct,Y
+C00393,2026-03-31,United Kingdom,London,Returning,Direct,Y
+C00394,2026-05-14,India,Pune,Returning,Organic Search,Y
+C00395,2026-08-11,United States,,Returning,Social,Y
+C00396,2026-08-05,Australia,Sydney,At Risk,Direct,N
+C00397,2026-09-18,United Kingdom,London,Returning,Social,Y
+C00398,2026-05-14,United States,Chicago,Returning,Direct,N
+C00399,2026-05-27,India,Hyderabad,New,Email,N
+C00400,2026-08-16,Canada,Calgary,Loyal,Referral,N
+C00401,2026-08-03,India,Mumbai,Loyal,Social,N
+C00402,2026-09-03,United Kingdom,Manchester,Loyal,Email,N
+C00403,2026-06-06,United States,Seattle,Returning,Direct,N
+C00404,2026-03-14,India,Mumbai,Loyal,Organic Search,N
+C00405,2026-06-10,United States,Chicago,Loyal,Social,N
+C00406,2026-07-09,India,Bengaluru,Returning,Social,Y
+C00407,2026-07-21,United States,Seattle,Returning,Referral,N
+C00408,2026-07-31,India,Bengaluru,Returning,Referral,N
+C00409,2026-08-16,Canada,Vancouver,Returning,Organic Search,Y
+C00410,2026-03-31,Australia,Brisbane,Returning,Paid Search,N
+C00411,2026-06-25,United Kingdom,London,New,Email,N
+C00412,2026-06-16,Canada,Toronto,Returning,Paid Search,N
+C00413,2026-03-09,Australia,Melbourne,New,Social,Y
+C00414,2026-06-30,Canada,Calgary,Returning,Social,N
+C00415,2026-06-04,United Kingdom,Bristol,At Risk,Paid Search,N
+C00416,2026-04-29,United Kingdom,Bristol,New,Social,Y
+C00417,2026-05-30,Canada,Calgary,Returning,Email,Y
+C00418,2026-05-14,United Kingdom,Manchester,Returning,Referral,Y
+C00419,2026-03-26,Australia,Brisbane,Loyal,Organic Search,N
+C00420,2026-06-01,United States,Austin,Loyal,Organic Search,N
+C00421,2026-08-06,Canada,Vancouver,New,Direct,Y
+C00422,2026-05-01,Canada,Vancouver,At Risk,Email,N
+C00423,2026-05-23,Australia,Brisbane,Returning,Organic Search,N
+C00424,2026-04-11,Australia,Sydney,New,Paid Search,N
+C00425,2026-03-28,United States,New York,Returning,Direct,N
+C00426,2026-04-19,United Kingdom,London,New,Paid Search,Y
+C00427,2026-05-23,Canada,Vancouver,Loyal,Referral,Y
+C00428,2026-08-25,United Kingdom,London,New,Organic Search,Y
+C00429,2026-05-23,United States,Austin,Returning,Paid Search,N
+C00430,2026-04-08,United Kingdom,Manchester,Loyal,Email,N
+C00431,2026-05-19,India,Delhi,New,Social,Y
+C00432,2026-07-03,United States,Chicago,Returning,Social,N
+C00433,2026-07-24,Canada,Vancouver,Returning,Paid Search,N
+C00434,2026-09-10,Canada,Calgary,Loyal,Email,N
+C00435,2026-09-14,Canada,Toronto,New,Direct,Y
+C00436,2026-08-26,Australia,Brisbane,New,Social,Y
+C00437,2026-07-19,Canada,Calgary,Loyal,Referral,N
+C00438,2026-06-02,Australia,Melbourne,Returning,Social,N
+C00439,2026-03-07,Canada,Calgary,Loyal,Social,Y
+C00440,2026-05-20,United States,Chicago,New,Paid Search,N
+C00441,2026-04-17,United States,Seattle,Returning,Referral,N
+C00442,2026-07-16,Canada,Calgary,Returning,Direct,Y
+C00443,2026-07-21,Australia,Melbourne,New,Social,N
+C00444,2026-09-12,Australia,Melbourne,At Risk,Email,Y
+C00445,2026-05-30,United States,Seattle,Returning,Email,N
+C00446,2026-04-08,Canada,Toronto,Returning,Paid Search,N
+C00447,2026-06-06,India,Hyderabad,New,Email,N
+C00448,2026-03-31,Australia,Brisbane,New,Referral,N
+C00449,2026-09-08,Australia,Brisbane,Returning,Paid Search,N
+C00450,2026-04-04,India,Mumbai,New,Organic Search,N
+C00451,2026-06-28,United Kingdom,London,Returning,Organic Search,Y
+C00452,2026-04-17,United States,Austin,Loyal,Referral,N
+C00453,2026-03-05,United States,Chicago,Loyal,Organic Search,N
+C00454,2026-06-29,Australia,Brisbane,New,Direct,N
+C00455,2026-03-25,United Kingdom,Bristol,At Risk,Direct,Y
+C00456,2026-06-15,United States,New York,At Risk,Direct,Y
+C00457,2026-06-08,United States,Austin,Loyal,Direct,N
+C00458,2026-08-01,Canada,Calgary,New,Email,N
+C00459,2026-08-22,Canada,Toronto,Returning,Direct,N
+C00460,2026-06-06,United Kingdom,Manchester,New,Organic Search,Y
+C00461,2026-04-03,Canada,Calgary,Returning,Organic Search,N
+C00462,2026-06-05,United States,Chicago,Returning,Social,N
+C00463,2026-04-19,United Kingdom,London,Returning,Email,N
+C00464,2026-07-27,India,Pune,New,Paid Search,N
+C00465,2026-08-28,Canada,Toronto,At Risk,Paid Search,N
+C00466,2026-05-28,United States,Austin,New,Social,Y
+C00467,2026-06-01,India,Bengaluru,Loyal,Paid Search,N
+C00468,2026-02-08,India,Delhi,New,Organic Search,Y
+C00469,2026-07-08,Australia,Brisbane,Returning,Organic Search,N
+C00470,2026-05-29,India,Mumbai,Returning,Paid Search,N
+C00471,2026-07-12,India,Bengaluru,Returning,Social,Y
+C00472,2026-08-08,Canada,Calgary,New,Referral,Y
+C00473,2026-02-26,Australia,Melbourne,Returning,Paid Search,Y
+C00474,2026-04-09,Canada,Vancouver,Loyal,Organic Search,Y
+C00475,2026-08-07,United States,Seattle,Returning,Email,N
+C00476,2026-06-16,United States,New York,New,Referral,N
+C00477,2026-04-11,India,Bengaluru,New,Referral,Y
+C00478,2026-06-28,Canada,Toronto,Loyal,Paid Search,N
+C00479,2026-07-19,Canada,Vancouver,Returning,Organic Search,Y
+C00480,2026-05-20,United Kingdom,Manchester,Loyal,Referral,N
+C00481,2026-04-27,United Kingdom,London,Loyal,Organic Search,Y
+C00482,2026-07-15,Australia,Melbourne,New,Organic Search,N
+C00483,2026-06-29,Australia,Brisbane,Returning,Email,N
+C00484,2026-08-20,Canada,Calgary,Returning,Paid Search,N
+C00485,2026-05-19,India,Hyderabad,At Risk,Paid Search,N
+C00486,2026-04-13,Canada,Calgary,Returning,Organic Search,N
+C00487,2026-06-04,Canada,Toronto,New,Email,Y
+C00488,2026-04-05,Canada,Toronto,New,Direct,Y
+C00489,2026-09-12,India,Mumbai,Loyal,Paid Search,N
+C00490,2026-04-23,United Kingdom,Bristol,New,Social,Y
+C00491,2026-08-20,United Kingdom,London,New,Email,N
+C00492,2026-08-01,Australia,Brisbane,At Risk,Direct,Y
+C00493,2026-05-09,Canada,Vancouver,New,Referral,Y
+C00494,2026-07-08,United Kingdom,London,Loyal,Direct,Y
+C00495,2026-03-24,United States,New York,Loyal,Organic Search,Y
+C00496,2026-04-26,India,Pune,At Risk,Paid Search,Y
+C00497,2026-03-13,Australia,Sydney,New,Email,N
+C00498,2026-08-18,United Kingdom,Manchester,New,Direct,Y
+C00499,2026-07-26,United States,New York,At Risk,Organic Search,N
+C00500,2026-06-03,United Kingdom,London,Returning,Organic Search,N
+C00501,2026-06-24,United States,Austin,Loyal,Paid Search,N
+C00502,2026-04-03,United Kingdom,London,Loyal,Referral,Y
+C00503,2026-09-28,United States,Seattle,New,Referral,N
+C00504,2026-05-08,India,Pune,Loyal,Direct,N
+C00505,2026-07-13,India,Mumbai,Returning,Organic Search,Y
+C00506,2026-07-11,United Kingdom,London,Loyal,Referral,N
+C00507,2026-05-23,United Kingdom,London,Returning,Referral,Y
+C00508,2026-08-19,Canada,Calgary,New,Direct,Y
+C00509,2026-06-04,United States,Austin,At Risk,Email,N
+C00510,2026-04-25,United Kingdom,London,New,Paid Search,Y
+C00511,2026-07-14,Australia,Sydney,New,Email,N
+C00512,2026-08-05,Canada,Vancouver,At Risk,Paid Search,N
+C00513,2026-04-21,United Kingdom,London,New,Direct,N
+C00514,2026-08-04,Australia,Melbourne,New,Direct,Y
+C00515,2026-05-24,United Kingdom,London,Returning,Social,Y
+C00516,2026-06-13,India,Pune,Returning,Referral,Y
+C00517,2026-04-11,India,Mumbai,New,Organic Search,Y
+C00518,2026-08-03,United States,Seattle,Returning,Direct,Y
+C00519,2026-03-20,Australia,Sydney,New,Organic Search,Y
+C00520,2026-07-05,Canada,Vancouver,New,Email,Y
+C00521,2026-04-04,United States,Seattle,Returning,Email,N
+C00522,2026-05-16,United States,Chicago,New,Email,Y
+C00523,2026-04-05,India,Hyderabad,New,Social,N
+C00524,2026-04-13,Canada,Toronto,New,Email,Y
+C00525,2026-07-22,Canada,Calgary,New,Referral,Y
+C00526,2026-06-01,Canada,Calgary,Loyal,Social,N
+C00527,2026-06-04,Canada,Toronto,New,Paid Search,Y
+C00528,2026-09-07,United Kingdom,Manchester,Returning,Referral,Y
+C00529,2026-07-22,United States,Chicago,New,Direct,Y
+C00530,2026-04-30,United States,Seattle,Returning,Paid Search,Y
+C00531,2026-03-23,United States,Austin,At Risk,Organic Search,N
+C00532,2026-03-19,Australia,Brisbane,At Risk,Email,N
+C00533,2026-03-31,United States,New York,New,Referral,Y
+C00534,2026-04-19,India,Delhi,New,Referral,Y
+C00535,2026-06-20,United States,Chicago,At Risk,Social,Y
+C00536,2026-08-01,India,Mumbai,Loyal,Referral,N
+C00537,2026-06-12,India,Pune,Returning,Social,N
+C00538,2026-07-08,United Kingdom,Bristol,At Risk,Direct,N
+C00539,2026-08-02,United Kingdom,Bristol,Returning,Referral,N
+C00540,2026-03-21,United States,Chicago,Returning,Direct,N
+C00541,2026-08-02,United States,New York,At Risk,Referral,N
+C00542,2026-08-04,Australia,Brisbane,New,Referral,Y
+C00543,2026-09-03,Australia,Melbourne,New,Direct,Y
+C00544,2026-05-25,United States,Chicago,Returning,Organic Search,N
+C00545,2026-08-15,Canada,Toronto,New,Organic Search,N
+C00546,2026-08-20,United Kingdom,London,New,Email,N
+C00547,2026-05-19,United States,Seattle,Returning,Email,Y
+C00548,2026-04-17,Canada,Calgary,New,Email,Y
+C00549,2026-05-19,India,Bengaluru,New,Organic Search,Y
+C00550,2026-08-14,United Kingdom,Manchester,New,Organic Search,Y
+C00551,2026-04-10,United Kingdom,Manchester,Loyal,Email,Y
+C00552,2026-04-22,Australia,,New,Paid Search,Y
+C00553,2026-03-11,Canada,Calgary,At Risk,Referral,N
+C00554,2026-06-01,United Kingdom,London,New,Referral,N
+C00555,2026-08-11,United States,New York,Returning,Social,N
+C00556,2026-07-09,United States,Chicago,New,Social,Y
+C00557,2026-07-22,Canada,Vancouver,Returning,Direct,N
+C00558,2026-03-24,India,Pune,New,Email,N
+C00559,2026-04-11,United States,Austin,Returning,Social,Y
+C00560,2026-03-13,United Kingdom,London,Loyal,Direct,Y
+C00561,2026-03-05,India,Hyderabad,Returning,Referral,Y
+C00562,2026-09-08,Australia,Melbourne,Loyal,Email,N
+C00563,2026-07-02,Australia,Melbourne,New,Direct,Y
+C00564,2026-05-04,Australia,Brisbane,Loyal,Direct,Y
+C00565,2026-04-20,India,Mumbai,At Risk,Paid Search,Y
+C00566,2026-04-20,India,Pune,New,Direct,Y
+C00567,2026-06-16,Australia,Brisbane,At Risk,Organic Search,Y
+C00568,2026-04-06,Canada,Calgary,New,Social,N
+C00569,2026-03-14,India,Hyderabad,Returning,Email,Y
+C00570,2026-07-03,Canada,Calgary,Returning,Organic Search,Y
+C00571,2026-08-26,Australia,Melbourne,Loyal,Social,N
+C00572,2026-06-05,United Kingdom,Manchester,Returning,Email,Y
+C00573,2026-06-17,United States,Chicago,Returning,Direct,N
+C00574,2026-06-17,India,Bengaluru,Returning,Organic Search,N
+C00575,2026-04-29,United Kingdom,Manchester,Loyal,Social,N
+C00576,2026-05-22,United Kingdom,Bristol,Returning,Paid Search,Y
+C00577,2026-05-29,United Kingdom,Manchester,New,Email,Y
+C00578,2026-04-23,United States,Seattle,Loyal,Referral,N
+C00579,2026-05-12,India,Mumbai,New,Direct,N
+C00580,2026-05-15,United States,New York,New,Paid Search,Y
+C00581,2026-08-22,United States,New York,At Risk,Direct,Y
+C00582,2026-06-20,United Kingdom,Manchester,Returning,Direct,Y
+C00583,2026-06-24,India,Pune,Returning,Paid Search,N
+C00584,2026-04-04,Australia,Melbourne,New,Social,Y
+C00585,2026-08-18,United Kingdom,London,New,Referral,Y
+C00586,2026-03-03,United States,Chicago,New,Email,Y
+C00587,2026-05-30,India,Mumbai,Returning,Referral,Y
+C00588,2026-07-06,United States,Austin,Loyal,Direct,N
+C00589,2026-06-20,Canada,Vancouver,Returning,Paid Search,N
+C00590,2026-03-14,United Kingdom,Bristol,Returning,Organic Search,Y
+C00591,2026-04-07,Australia,Melbourne,Returning,Referral,N
+C00592,2026-02-13,United Kingdom,Manchester,New,Social,N
+C00593,2026-07-07,United Kingdom,Bristol,At Risk,Direct,N
+C00594,2026-07-27,United States,Chicago,Loyal,Referral,N
+C00595,2026-02-16,United Kingdom,Bristol,New,Email,N
+C00596,2026-05-11,United Kingdom,Manchester,Loyal,Referral,Y
+C00597,2026-07-19,United Kingdom,Bristol,Returning,Email,N
+C00598,2026-07-10,Australia,Sydney,Loyal,Referral,Y
+C00599,2026-08-07,United Kingdom,London,Loyal,Direct,Y
+C00600,2026-02-20,United Kingdom,London,Returning,Direct,N
+C00601,2026-06-01,Canada,Vancouver,Returning,Email,Y
+C00602,2026-09-12,Canada,Calgary,Returning,Referral,Y
+C00603,2026-07-15,Canada,Toronto,Loyal,Email,N
+C00604,2026-09-12,Canada,Toronto,New,Paid Search,N
+C00605,2026-05-05,Canada,Vancouver,New,Direct,Y
+C00606,2026-04-20,India,Mumbai,New,Organic Search,Y
+C00607,2026-06-05,Canada,Toronto,Returning,Paid Search,N
+C00608,2026-08-07,India,Pune,Returning,Email,N
+C00609,2026-04-25,Canada,Toronto,Returning,Direct,N
+C00610,2026-06-28,India,Hyderabad,New,Direct,Y
+C00611,2026-07-19,United States,Austin,New,Organic Search,N
+C00612,2026-03-23,Australia,Sydney,New,Organic Search,N
+C00613,2026-05-23,United Kingdom,Bristol,Returning,Social,N
+C00614,2026-07-02,United States,Seattle,Returning,Paid Search,Y
+C00615,2026-08-11,Canada,Toronto,Loyal,Paid Search,Y
+C00616,2026-04-05,India,Mumbai,New,Direct,Y
+C00617,2026-03-07,Canada,Calgary,Returning,Referral,Y
+C00618,2026-04-09,India,Delhi,New,Organic Search,N
+C00619,2026-05-03,Canada,Calgary,New,Direct,Y
+C00620,2026-03-20,United States,New York,New,Direct,Y
+C00621,2026-07-02,Australia,Brisbane,Loyal,Email,Y
+C00622,2026-03-03,Australia,Melbourne,New,Organic Search,N
+C00623,2026-03-11,United States,Austin,Loyal,Paid Search,N
+C00624,2026-05-28,Canada,Toronto,Returning,Paid Search,N
+C00625,2026-06-02,United Kingdom,London,Returning,Organic Search,N
+C00626,2026-08-27,United States,New York,Loyal,Organic Search,N
+C00627,2026-04-25,United States,Austin,Returning,Organic Search,Y
+C00628,2026-06-11,India,Bengaluru,Returning,Organic Search,Y
+C00629,2026-09-22,India,Mumbai,Returning,Paid Search,N
+C00630,2026-05-20,United Kingdom,Manchester,Loyal,Organic Search,N
+C00631,2026-06-23,United Kingdom,Manchester,Returning,Email,N
+C00632,2026-04-01,Canada,Vancouver,Loyal,Direct,Y
+C00633,2026-08-12,India,Delhi,At Risk,Paid Search,Y
+C00634,2026-04-02,Canada,Calgary,Returning,Paid Search,N
+C00635,2026-02-27,United Kingdom,Bristol,Loyal,Direct,Y
+C00636,2026-04-06,Canada,Vancouver,Returning,Organic Search,N
+C00637,2026-09-12,United Kingdom,Bristol,Returning,Direct,Y
+C00638,2026-04-24,United Kingdom,Bristol,Loyal,Organic Search,N
+C00639,2026-04-22,United States,Seattle,New,Referral,Y
+C00640,2026-04-18,India,Mumbai,Returning,Email,N
+C00641,2026-08-30,United States,Seattle,New,Social,N
+C00642,2026-04-08,India,Hyderabad,Returning,Email,Y
+C00643,2026-05-04,India,Hyderabad,Returning,Email,N
+C00644,2026-08-02,United Kingdom,Bristol,Returning,Organic Search,N
+C00645,2026-08-27,Canada,Calgary,New,Organic Search,N
+C00646,2026-03-24,Australia,Brisbane,Returning,Social,N
+C00647,2026-07-29,India,Pune,New,Referral,N
+C00648,2026-04-15,United Kingdom,London,Loyal,Paid Search,Y
+C00649,2026-06-25,United Kingdom,Bristol,At Risk,Social,N
+C00650,2026-09-16,India,Mumbai,Returning,Direct,N
+C00651,2026-07-06,India,Mumbai,New,Email,Y
+C00652,2026-07-29,Canada,Vancouver,New,Email,Y
+C00653,2026-08-19,Australia,Melbourne,Returning,Referral,Y
+C00654,2026-09-02,Canada,Calgary,New,Email,N
+C00655,2026-07-31,Australia,Brisbane,New,Paid Search,Y
+C00656,2026-03-24,Canada,Calgary,Loyal,Referral,N
+C00657,2026-04-26,Canada,Calgary,Loyal,Social,N
+C00658,2026-06-15,United Kingdom,London,New,Referral,N
+C00659,2026-06-27,Australia,Brisbane,At Risk,Direct,Y
+C00660,2026-07-18,United States,Austin,Returning,Direct,Y
+C00661,2026-04-29,United States,Austin,Loyal,Social,N
+C00662,2026-05-07,Australia,Brisbane,Loyal,Direct,N
+C00663,2026-08-31,Canada,Toronto,New,Paid Search,Y
+C00664,2026-06-28,India,Mumbai,At Risk,Direct,N
+C00665,2026-08-30,United States,Austin,New,Referral,Y
+C00666,2026-04-14,United Kingdom,Bristol,Loyal,Direct,Y
+C00667,2026-05-09,Australia,Brisbane,Loyal,Direct,N
+C00668,2026-05-20,India,Pune,At Risk,Direct,N
+C00669,2026-07-19,Australia,Brisbane,New,Referral,N
+C00670,2026-04-06,United States,Austin,Loyal,Referral,Y
+C00671,2026-06-15,United States,Chicago,At Risk,Organic Search,Y
+C00672,2026-03-30,United States,Seattle,New,Social,N
+C00673,2026-07-28,United States,Austin,New,Email,Y
+C00674,2026-08-21,India,Bengaluru,Returning,Direct,N
+C00675,2026-04-12,Canada,Vancouver,New,Direct,N
+C00676,2026-06-17,Australia,Brisbane,New,Referral,Y
+C00677,2026-04-18,Canada,Vancouver,New,Paid Search,Y
+C00678,2026-06-01,United Kingdom,Manchester,New,Referral,N
+C00679,2026-02-16,Australia,Sydney,Returning,Email,Y
+C00680,2026-03-10,Australia,Sydney,Returning,Social,N
+C00681,2026-05-11,India,Hyderabad,Loyal,Organic Search,N
+C00682,2026-04-21,Australia,Melbourne,New,Direct,Y
+C00683,2026-03-28,United Kingdom,London,New,Referral,Y
+C00684,2026-07-21,India,Mumbai,Loyal,Email,Y
+C00685,2026-05-09,United States,Seattle,Returning,Organic Search,Y
+C00686,2026-05-21,India,Bengaluru,New,Organic Search,Y
+C00687,2026-07-03,United States,New York,Returning,Paid Search,N
+C00688,2026-05-22,Canada,Calgary,Returning,Social,Y
+C00689,2026-02-17,Canada,Calgary,New,Direct,Y
+C00690,2026-09-03,Australia,Sydney,Returning,Referral,Y
+C00691,2026-02-26,United Kingdom,Bristol,New,Email,N
+C00692,2026-02-14,Canada,Vancouver,New,Paid Search,Y
+C00693,2026-04-02,Canada,Calgary,New,Direct,N
+C00694,2026-05-07,India,Hyderabad,New,Organic Search,Y
+C00695,2026-03-27,Australia,Brisbane,Returning,Organic Search,N
+C00696,2026-05-18,United States,Seattle,At Risk,Referral,Y
+C00697,2026-06-29,United States,Austin,New,Paid Search,Y
+C00698,2026-05-16,Australia,Brisbane,New,Direct,Y
+C00699,2026-07-19,United Kingdom,Bristol,Returning,Social,N
+C00700,2026-03-24,United States,Chicago,New,Referral,Y
+C00701,2026-06-12,United States,Seattle,New,Direct,N
+C00702,2026-07-29,Australia,Brisbane,Returning,Social,N
+C00703,2026-08-20,United States,Chicago,Loyal,Direct,N
+C00704,2026-05-09,United Kingdom,Bristol,Loyal,Email,N
+C00705,2026-06-20,Canada,Vancouver,Returning,Organic Search,Y
+C00706,2026-09-03,Australia,Melbourne,Loyal,Paid Search,Y
+C00707,2026-02-26,United Kingdom,Bristol,New,Organic Search,Y
+C00708,2026-03-31,Australia,Brisbane,New,Organic Search,N
+C00709,2026-04-15,Australia,Brisbane,Loyal,Social,N
+C00710,2026-04-19,United States,Austin,New,Referral,Y
+C00711,2026-06-01,Canada,Toronto,Returning,Referral,Y
+C00712,2026-07-25,Australia,Sydney,New,Referral,Y
+C00713,2026-05-04,Canada,Toronto,Loyal,Paid Search,Y
+C00714,2026-05-13,United Kingdom,London,Returning,Referral,N
+C00715,2026-05-31,Canada,Vancouver,Loyal,Organic Search,N
+C00716,2026-03-07,India,Bengaluru,Loyal,Social,Y
+C00717,2026-03-11,Canada,Vancouver,Returning,Organic Search,N
+C00718,2026-07-08,Canada,Vancouver,Returning,Social,N
+C00719,2026-02-28,Canada,Calgary,Loyal,Email,Y
+C00720,2026-08-14,United States,Austin,New,Paid Search,Y
+C00721,2026-04-14,United Kingdom,London,Returning,Email,N
+C00722,2026-05-13,India,Pune,Returning,Referral,Y
+C00723,2026-08-11,Canada,Toronto,New,Referral,Y
+C00724,2026-03-25,United States,New York,Loyal,Paid Search,Y
+C00725,2026-07-25,United States,Chicago,Returning,Email,Y
+C00726,2026-07-24,United Kingdom,Manchester,Returning,Email,N
+C00727,2026-07-29,United States,Seattle,Returning,Referral,Y
+C00728,2026-03-18,Australia,Melbourne,New,Direct,N
+C00729,2026-04-08,Canada,Toronto,New,Email,Y
+C00730,2026-08-09,India,Hyderabad,Loyal,Referral,N
+C00731,2026-03-05,United States,Chicago,Returning,Referral,Y
+C00732,2026-05-13,Australia,Sydney,New,Direct,Y
+C00733,2026-05-07,Australia,Sydney,Loyal,Direct,N
+C00734,2026-05-09,Australia,Sydney,Returning,Email,Y
+C00735,2026-05-18,Canada,Calgary,Loyal,Direct,Y
+C00736,2026-07-14,Canada,Vancouver,Loyal,Organic Search,N
+C00737,2026-04-10,Australia,Melbourne,New,Direct,Y
+C00738,2026-03-28,Australia,Brisbane,New,Direct,Y
+C00739,2026-05-12,United Kingdom,London,New,Direct,N
+C00740,2026-04-13,United Kingdom,Bristol,Returning,Social,N
+C00741,2026-05-23,United States,Seattle,New,Referral,N
+C00742,2026-06-20,United Kingdom,Manchester,Loyal,Email,Y
+C00743,2026-07-02,India,Mumbai,New,Referral,N
+C00744,2026-04-22,United Kingdom,Bristol,Returning,Organic Search,Y
+C00745,2026-02-20,Canada,Toronto,Loyal,Email,N
+C00746,2026-08-01,India,Mumbai,Returning,Referral,Y
+C00747,2026-05-30,Canada,Calgary,Returning,Direct,Y
+C00748,2026-03-22,United States,Seattle,New,Direct,N
+C00749,2026-09-12,United States,Chicago,Returning,Direct,Y
+C00750,2026-07-12,United Kingdom,London,At Risk,Organic Search,N
+C00751,2026-06-14,Canada,Vancouver,Returning,Paid Search,Y
+C00752,2026-08-13,India,Bengaluru,Loyal,Referral,N
+C00753,2026-06-06,United Kingdom,Bristol,At Risk,Email,N
+C00754,2026-08-16,Australia,Sydney,Returning,Organic Search,Y
+C00755,2026-06-08,Australia,Sydney,Loyal,Social,N
+C00756,2026-06-02,Canada,Vancouver,Loyal,Social,N
+C00757,2026-04-28,Canada,Toronto,Returning,Social,Y
+C00758,2026-04-11,Canada,Toronto,Returning,Paid Search,N
+C00759,2026-06-05,Canada,Calgary,New,Social,Y
+C00760,2026-08-03,United Kingdom,Bristol,Loyal,Social,Y
+C00761,2026-07-17,Australia,Melbourne,Returning,Referral,N
+C00762,2026-04-08,United States,Chicago,Returning,Paid Search,Y
+C00763,2026-06-08,United States,Chicago,New,Paid Search,N
+C00764,2026-07-12,United States,New York,Returning,Direct,N
+C00765,2026-09-17,Australia,Brisbane,At Risk,Email,N
+C00766,2026-06-13,Australia,Brisbane,Loyal,Email,Y
+C00767,2026-06-16,Australia,Sydney,Loyal,Paid Search,Y
+C00768,2026-05-15,Australia,Brisbane,New,Social,N
+C00769,2026-04-13,United States,Seattle,New,Organic Search,Y
+C00770,2026-06-02,United States,New York,New,Referral,N
+C00771,2026-03-30,United States,Chicago,New,Referral,N
+C00772,2026-07-16,United Kingdom,Manchester,New,Direct,N
+C00773,2026-05-08,United Kingdom,Manchester,New,Paid Search,Y
+C00774,2026-07-14,India,Mumbai,Returning,Email,Y
+C00775,2026-07-24,United States,New York,New,Email,Y
+C00776,2026-05-03,Australia,Melbourne,Loyal,Social,N
+C00777,2026-03-12,Australia,Melbourne,New,Paid Search,Y
+C00778,2026-06-27,United States,New York,Returning,Social,N
+C00779,2026-06-05,United Kingdom,Bristol,At Risk,Social,N
+C00780,2026-04-25,India,Bengaluru,Loyal,Referral,Y
+C00781,2026-04-17,Australia,Brisbane,Returning,Social,N
+C00782,2026-03-14,United Kingdom,Manchester,Loyal,Email,Y
+C00783,2026-03-15,Canada,Vancouver,Returning,Paid Search,Y
+C00784,2026-05-26,United Kingdom,Bristol,Returning,Organic Search,Y
+C00785,2026-05-20,United States,Austin,New,Social,N
+C00786,2026-03-14,Australia,Melbourne,Loyal,Social,N
+C00787,2026-07-01,Canada,Toronto,New,Paid Search,N
+C00788,2026-06-19,India,Pune,New,Organic Search,N
+C00789,2026-07-20,Australia,Melbourne,Returning,Organic Search,Y
+C00790,2026-03-05,United Kingdom,London,Returning,Email,N
+C00791,2026-07-16,United States,Austin,Returning,Paid Search,Y
+C00792,2026-06-20,Australia,Sydney,Returning,Social,N
+C00793,2026-05-14,Canada,Vancouver,Returning,Paid Search,Y
+C00794,2026-03-31,Australia,Brisbane,Loyal,Referral,N
+C00795,2026-03-31,Australia,Brisbane,New,Social,N
+C00796,2026-07-25,Australia,Sydney,Returning,Social,N
+C00797,2026-07-12,United Kingdom,London,New,Paid Search,N
+C00798,2026-05-07,United Kingdom,London,Returning,Email,N
+C00799,2026-09-17,United Kingdom,Manchester,Loyal,Referral,Y
+C00800,2026-04-06,India,Mumbai,Returning,Referral,N
+C00801,2026-06-09,Canada,Calgary,Loyal,Email,N
+C00802,2026-05-31,United States,Seattle,Returning,Referral,N
+C00803,2026-04-04,United Kingdom,Bristol,Loyal,Email,Y
+C00804,2026-06-24,India,Bengaluru,New,Email,N
+C00805,2026-03-14,United Kingdom,Manchester,New,Organic Search,Y
+C00806,2026-03-19,India,Mumbai,At Risk,Social,N
+C00807,2026-05-27,United States,New York,New,Paid Search,Y
+C00808,2026-06-28,Canada,Vancouver,New,Email,N
+C00809,2026-03-26,Canada,Toronto,New,Paid Search,Y
+C00810,2026-04-27,United Kingdom,Bristol,Returning,Paid Search,N
+C00811,2026-08-05,Canada,Calgary,New,Email,Y
+C00812,2026-07-11,India,Delhi,Returning,Paid Search,N
+C00813,2026-02-27,Canada,Vancouver,New,Direct,Y
+C00814,2026-03-28,Australia,Melbourne,Returning,Social,Y
+C00815,2026-09-12,United Kingdom,Bristol,New,Organic Search,Y
+C00816,2026-05-10,Canada,Toronto,Loyal,Referral,Y
+C00817,2026-05-31,Canada,Toronto,Returning,Direct,N
+C00818,2026-07-16,Australia,Sydney,New,Email,Y
+C00819,2026-07-05,Australia,Brisbane,New,Social,Y
+C00820,2026-07-13,Australia,Melbourne,New,Referral,N
+C00821,2026-06-14,Canada,Calgary,Returning,Direct,Y
+C00822,2026-08-22,United Kingdom,Bristol,Returning,Social,N
+C00823,2026-03-20,United States,Austin,New,Email,N
+C00824,2026-03-23,Australia,Sydney,Returning,Email,N
+C00825,2026-04-08,United Kingdom,Manchester,New,Direct,N
+C00826,2026-09-05,United States,Austin,Loyal,Paid Search,N
+C00827,2026-03-20,India,Pune,New,Direct,N
+C00828,2026-08-01,Australia,Melbourne,New,Direct,N
+C00829,2026-08-10,India,Delhi,New,Paid Search,Y
+C00830,2026-06-17,India,Pune,New,Organic Search,N
+C00831,2026-04-28,Canada,Calgary,Returning,Organic Search,N
+C00832,2026-04-13,United States,New York,New,Paid Search,N
+C00833,2026-05-25,India,Delhi,Returning,Direct,N
+C00834,2026-09-08,United Kingdom,Bristol,New,Organic Search,Y
+C00835,2026-09-11,United Kingdom,London,At Risk,Organic Search,Y
+C00836,2026-04-11,United States,Chicago,New,Direct,Y
+C00837,2026-04-23,Australia,Sydney,Returning,Referral,N
+C00838,2026-03-27,India,Bengaluru,Returning,Direct,N
+C00839,2026-08-09,India,Mumbai,Returning,Referral,N
+C00840,2026-04-25,United States,Seattle,At Risk,Social,N
+C00841,2026-06-05,United Kingdom,Bristol,Returning,Direct,N
+C00842,2026-07-07,Australia,Brisbane,New,Referral,N
+C00843,2026-05-06,United Kingdom,Manchester,New,Organic Search,N
+C00844,2026-08-30,Australia,Sydney,At Risk,Social,Y
+C00845,2026-06-19,United Kingdom,Manchester,New,Direct,N
+C00846,2026-04-28,Australia,Brisbane,At Risk,Paid Search,Y
+C00847,2026-04-28,India,Mumbai,New,Social,Y
+C00848,2026-07-18,United States,Austin,New,Email,Y
+C00849,2026-06-29,India,Pune,New,Direct,Y
+C00850,2026-03-09,Australia,Sydney,Loyal,Referral,N
+C00851,2026-09-14,India,Bengaluru,New,Email,N
+C00852,2026-07-21,India,Hyderabad,At Risk,Direct,N
+C00853,2026-06-17,India,Delhi,New,Referral,Y
+C00854,2026-05-09,United Kingdom,London,New,Direct,N
+C00855,2026-04-07,Canada,Calgary,New,Email,N
+C00856,2026-07-03,Canada,Vancouver,New,Referral,Y
+C00857,2026-05-07,Australia,Sydney,Returning,Email,Y
+C00858,2026-05-05,United States,Chicago,Returning,Direct,Y
+C00859,2026-04-13,Australia,Brisbane,New,Organic Search,N
+C00860,2026-06-23,Canada,Calgary,New,Direct,N
+C00861,2026-05-22,Canada,Toronto,New,Referral,Y
+C00862,2026-07-11,United Kingdom,Bristol,Loyal,Email,Y
+C00863,2026-09-18,Canada,Toronto,New,Social,Y
+C00864,2026-08-20,India,Delhi,New,Referral,Y
+C00865,2026-08-19,United Kingdom,Bristol,Loyal,Social,N
+C00866,2026-08-17,Canada,Toronto,Loyal,Paid Search,Y
+C00867,2026-05-08,Australia,Melbourne,Returning,Referral,Y
+C00868,2026-06-03,India,Hyderabad,New,Paid Search,Y
+C00869,2026-07-31,United Kingdom,Bristol,Returning,Organic Search,N
+C00870,2026-08-08,India,Bengaluru,Returning,Direct,N
+C00871,2026-08-15,India,Pune,New,Email,Y
+C00872,2026-05-24,United Kingdom,Bristol,Returning,Paid Search,Y
+C00873,2026-05-11,Australia,Brisbane,New,Paid Search,N
+C00874,2026-04-23,United Kingdom,Bristol,New,Social,N
+C00875,2026-03-13,United Kingdom,London,At Risk,Referral,N
+C00876,2026-03-10,India,Pune,Loyal,Organic Search,N
+C00877,2026-07-15,United States,Seattle,Returning,Organic Search,N
+C00878,2026-03-20,Australia,Brisbane,Returning,Email,Y
+C00879,2026-07-20,Australia,Melbourne,At Risk,Social,N
+C00880,2026-07-12,Australia,Brisbane,New,Referral,Y
+C00881,2026-06-27,United States,Chicago,Returning,Paid Search,Y
+C00882,2026-08-19,United Kingdom,Bristol,At Risk,Organic Search,Y
+C00883,2026-08-10,United Kingdom,London,Loyal,Email,N
+C00884,2026-05-27,United Kingdom,Bristol,At Risk,Social,Y
+C00885,2026-07-13,United States,Chicago,New,Referral,N
+C00886,2026-04-17,Australia,Sydney,Returning,Paid Search,Y
+C00887,2026-08-25,United Kingdom,Manchester,New,Referral,N
+C00888,2026-08-08,United Kingdom,Manchester,Returning,Paid Search,Y
+C00889,2026-06-07,United States,Seattle,Loyal,Organic Search,N
+C00890,2026-07-23,Canada,Calgary,At Risk,Paid Search,Y
+C00891,2026-06-05,United States,Seattle,Returning,Email,Y
+C00892,2026-06-08,Canada,Toronto,Returning,Email,N
+C00893,2026-04-27,Canada,Calgary,Returning,Referral,Y
+C00894,2026-08-02,Australia,Melbourne,Loyal,Organic Search,Y
+C00895,2026-04-11,Australia,Brisbane,New,Email,Y
+C00896,2026-06-16,United States,Seattle,Loyal,Social,N
+C00897,2026-05-03,United States,New York,Returning,Paid Search,N
+C00898,2026-08-24,Canada,Calgary,New,Referral,Y
+C00899,2026-05-08,Canada,Vancouver,New,Email,Y
+C00900,2026-07-25,Canada,Vancouver,Returning,Direct,Y
+C00901,2026-07-16,India,Pune,Returning,Organic Search,N
+C00902,2026-04-27,Australia,Sydney,Returning,Email,Y
+C00903,2026-06-13,United States,Chicago,New,Paid Search,Y
+C00904,2026-05-05,India,Bengaluru,Loyal,Email,N
+C00905,2026-08-28,United States,Chicago,At Risk,Organic Search,N
+C00906,2026-05-07,India,Pune,Returning,Organic Search,N
+C00907,2026-07-14,United States,Seattle,Returning,Email,Y
+C00908,2026-03-01,Australia,Sydney,Loyal,Social,Y
+C00909,2026-06-24,India,Delhi,Returning,Organic Search,Y
+C00910,2026-03-20,India,Hyderabad,New,Organic Search,Y
+C00911,2026-04-28,India,Mumbai,Returning,Referral,Y
+C00912,2026-03-29,Canada,Toronto,New,Social,N
+C00913,2026-06-17,United Kingdom,London,Loyal,Referral,Y
+C00914,2026-04-11,United Kingdom,London,Returning,Social,N
+C00915,2026-05-21,Australia,Sydney,Returning,Referral,Y
+C00916,2026-04-23,India,Hyderabad,At Risk,Email,N
+C00917,2026-04-22,Canada,Vancouver,New,Referral,N
+C00918,2026-04-02,United States,Seattle,Returning,Direct,N
+C00919,2026-08-11,Canada,Calgary,New,Social,Y
+C00920,2026-07-03,India,Pune,Returning,Organic Search,Y
+C00921,2026-05-13,Australia,Sydney,New,Referral,Y
+C00922,2026-03-03,India,Bengaluru,New,Organic Search,N
+C00923,2026-04-29,United Kingdom,Manchester,Loyal,Organic Search,N
+C00924,2026-06-07,United Kingdom,Bristol,Returning,Organic Search,Y
+C00925,2026-07-01,United States,Austin,At Risk,Email,N
+C00926,2026-02-25,India,Pune,New,Email,N
+C00927,2026-06-16,Canada,Calgary,New,Referral,N
+C00928,2026-03-01,Australia,Brisbane,Returning,Paid Search,N
+C00929,2026-07-25,United Kingdom,Manchester,Loyal,Social,N
+C00930,2026-07-26,Australia,Brisbane,Returning,Referral,Y
+C00931,2026-03-28,United Kingdom,Manchester,Loyal,Social,N
+C00932,2026-05-22,India,Mumbai,Returning,Social,Y
+C00933,2026-05-27,Australia,Sydney,Returning,Organic Search,Y
+C00934,2026-05-12,India,Delhi,Loyal,Referral,Y
+C00935,2026-07-04,United States,Seattle,Loyal,Referral,N
+C00936,2026-08-14,United Kingdom,London,Loyal,Referral,Y
+C00937,2026-08-21,United States,Seattle,Loyal,Referral,Y
+C00938,2026-07-12,India,Delhi,Returning,Referral,Y
+C00939,2026-05-30,United Kingdom,London,New,Direct,N
+C00940,2026-04-24,India,Bengaluru,Returning,Paid Search,N
+C00941,2026-07-01,United States,Austin,Returning,Email,Y
+C00942,2026-07-04,United Kingdom,Manchester,New,Referral,Y
+C00943,2026-04-07,United States,Austin,New,Direct,N
+C00944,2026-06-10,Australia,Sydney,New,Social,N
+C00945,2026-06-30,India,Pune,At Risk,Organic Search,Y
+C00946,2026-07-24,Canada,Vancouver,Returning,Direct,N
+C00947,2026-05-21,Australia,Melbourne,Loyal,Direct,Y
+C00948,2026-03-17,Canada,Toronto,Loyal,Direct,N
+C00949,2026-04-26,India,Pune,Returning,Paid Search,Y
+C00950,2026-07-24,Australia,Melbourne,Returning,Direct,N
+C00951,2026-05-08,United Kingdom,London,New,Organic Search,N
+C00952,2026-05-29,Canada,Toronto,New,Social,Y
+C00953,2026-07-31,Australia,Brisbane,Loyal,Social,Y
+C00954,2026-04-16,United Kingdom,Manchester,Returning,Paid Search,Y
+C00955,2026-07-22,Australia,Melbourne,New,Paid Search,N
+C00956,2026-04-28,Canada,Vancouver,Returning,Paid Search,Y
+C00957,2026-04-30,India,Pune,New,Referral,N
+C00958,2026-03-18,United Kingdom,Manchester,New,Email,Y
+C00959,2026-08-17,Australia,Brisbane,Loyal,Email,N
+C00960,2026-03-31,Canada,Toronto,New,Paid Search,Y
+C00961,2026-02-22,United States,Seattle,Returning,Email,N
+C00962,2026-07-23,United States,Austin,New,Direct,N
+C00963,2026-05-10,Canada,Calgary,New,Referral,N
+C00964,2026-05-21,United States,Austin,At Risk,Organic Search,Y
+C00965,2026-05-09,Australia,Melbourne,Loyal,Paid Search,N
+C00966,2026-06-02,Australia,Melbourne,Loyal,Email,N
+C00967,2026-03-28,Canada,Calgary,New,Paid Search,Y
+C00968,2026-06-17,Australia,Melbourne,Loyal,Paid Search,N
+C00969,2026-06-28,United States,New York,Returning,Paid Search,N
+C00970,2026-07-03,Canada,Toronto,Returning,Email,N
+C00971,2026-05-24,Australia,Sydney,Returning,Email,N
+C00972,2026-05-17,Canada,Toronto,Returning,Organic Search,N
+C00973,2026-04-12,United States,Seattle,At Risk,Referral,N
+C00974,2026-08-28,India,Pune,Loyal,Organic Search,N
+C00975,2026-08-11,India,Hyderabad,At Risk,Social,N
+C00976,2026-08-14,Australia,Brisbane,New,Email,Y
+C00977,2026-03-25,Australia,Brisbane,New,Social,Y
+C00978,2026-05-09,Canada,Vancouver,Returning,Social,N
+C00979,2026-06-05,United Kingdom,London,New,Referral,N
+C00980,2026-05-30,Australia,Brisbane,Returning,Paid Search,Y
+C00981,2026-02-24,United Kingdom,Manchester,Returning,Paid Search,Y
+C00982,2026-06-06,United Kingdom,Bristol,New,Social,Y
+C00983,2026-03-11,India,Hyderabad,Loyal,Direct,N
+C00984,2026-07-04,United Kingdom,Bristol,New,Paid Search,Y
+C00985,2026-07-20,United Kingdom,Bristol,At Risk,Paid Search,N
+C00986,2026-05-10,Canada,Calgary,Returning,Direct,Y
+C00987,2026-04-22,United States,Austin,New,Social,Y
+C00988,2026-07-19,India,Pune,Returning,Email,Y
+C00989,2026-03-25,Canada,Vancouver,Returning,Paid Search,N
+C00990,2026-07-18,India,Pune,Returning,Social,Y
+C00991,2026-04-27,India,Bengaluru,At Risk,Email,N
+C00992,2026-06-10,United Kingdom,London,New,Referral,N
+C00993,2026-03-29,Canada,Toronto,Loyal,Referral,Y
+C00994,2026-06-19,Australia,Brisbane,At Risk,Social,Y
+C00995,2026-07-15,India,Pune,New,Organic Search,N
+C00996,2026-07-22,United Kingdom,Manchester,New,Organic Search,Y
+C00997,2026-07-12,Australia,Brisbane,Returning,Paid Search,Y
+C00998,2026-09-02,India,Hyderabad,New,Direct,Y
+C00999,2026-02-15,India,,New,Direct,Y
+C01000,2026-07-11,Canada,Vancouver,Returning,Direct,N
+C01001,2026-08-09,United Kingdom,London,New,Organic Search,N
+C01002,2026-05-11,Canada,Vancouver,At Risk,Social,Y
+C01003,2026-08-15,Canada,Toronto,Returning,Paid Search,N
+C01004,2026-07-30,India,Pune,New,Direct,Y
+C01005,2026-06-02,Canada,Toronto,New,Referral,N
+C01006,2026-09-23,Canada,Vancouver,New,Direct,Y
+C01007,2026-03-08,India,Bengaluru,New,Social,N
+C01008,2026-09-02,Australia,Brisbane,At Risk,Email,N
+C01009,2026-06-13,Canada,Calgary,Loyal,Organic Search,Y
+C01010,2026-06-08,India,Pune,New,Referral,N
+C01011,2026-02-27,United Kingdom,Manchester,New,Direct,Y
+C01012,2026-05-11,United Kingdom,Manchester,New,Email,N
+C01013,2026-07-22,United States,New York,At Risk,Direct,Y
+C01014,2026-02-28,United Kingdom,London,Returning,Social,N
+C01015,2026-03-21,India,Mumbai,New,Paid Search,Y
+C01016,2026-07-02,Australia,Melbourne,New,Referral,N
+C01017,2026-05-10,Canada,Vancouver,At Risk,Organic Search,Y
+C01018,2026-08-08,United Kingdom,Bristol,New,Organic Search,Y
+C01019,2026-06-05,Australia,Brisbane,Loyal,Referral,Y
+C01020,2026-08-01,Australia,Sydney,New,Paid Search,N
+C01021,2026-05-31,India,Hyderabad,New,Direct,Y
+C01022,2026-07-28,India,Delhi,At Risk,Organic Search,N
+C01023,2026-08-11,Australia,Brisbane,New,Organic Search,Y
+C01024,2026-04-22,Canada,Calgary,New,Paid Search,N
+C01025,2026-03-06,United Kingdom,Manchester,New,Direct,Y
+C01026,2026-07-26,United Kingdom,London,Returning,Social,Y
+C01027,2026-06-01,India,Pune,New,Social,Y
+C01028,2026-07-29,Canada,Calgary,New,Organic Search,N
+C01029,2026-09-22,United States,Seattle,New,Organic Search,Y
+C01030,2026-03-15,India,Hyderabad,Loyal,Email,N
+C01031,2026-06-19,United States,Austin,Returning,Email,Y
+C01032,2026-04-11,United States,New York,Returning,Direct,N
+C01033,2026-08-19,Australia,Melbourne,New,Organic Search,Y
+C01034,2026-08-04,United States,New York,Returning,Referral,Y
+C01035,2026-04-05,Canada,Toronto,New,Paid Search,Y
+C01036,2026-04-02,United States,Seattle,Returning,Paid Search,Y
+C01037,2026-03-12,India,Bengaluru,New,Social,N
+C01038,2026-04-09,Australia,Sydney,Loyal,Referral,Y
+C01039,2026-08-25,United States,New York,New,Paid Search,N
+C01040,2026-03-26,Australia,Melbourne,New,Direct,N
+C01041,2026-07-24,United States,Chicago,New,Direct,N
+C01042,2026-06-23,United States,Chicago,New,Referral,N
+C01043,2026-04-21,India,Mumbai,At Risk,Email,Y
+C01044,2026-05-06,Canada,Vancouver,Loyal,Direct,N
+C01045,2026-07-02,United Kingdom,London,New,Referral,Y
+C01046,2026-07-05,United Kingdom,Manchester,Returning,Paid Search,N
+C01047,2026-06-25,United States,Chicago,Loyal,Direct,Y
+C01048,2026-05-06,Australia,Sydney,New,Referral,N
+C01049,2026-04-02,United States,Seattle,New,Direct,N
+C01050,2026-06-19,United States,Seattle,Returning,Referral,Y
+C01051,2026-08-26,Australia,Sydney,New,Email,Y
+C01052,2026-04-13,Canada,Vancouver,Loyal,Direct,Y
+C01053,2026-04-12,Canada,Toronto,Returning,Organic Search,N
+C01054,2026-07-21,United States,Austin,New,Organic Search,Y
+C01055,2026-03-02,Canada,Toronto,Loyal,Referral,Y
+C01056,2026-05-24,Canada,Toronto,Loyal,Email,Y
+C01057,2026-03-23,United Kingdom,Bristol,Returning,Direct,Y
+C01058,2026-02-27,Canada,Calgary,New,Email,N
+C01059,2026-04-21,Australia,Sydney,Loyal,Organic Search,N
+C01060,2026-05-22,India,Bengaluru,Loyal,Organic Search,N
+C01061,2026-05-13,United Kingdom,London,Returning,Paid Search,Y
+C01062,2026-06-18,Australia,Melbourne,New,Organic Search,N
+C01063,2026-02-16,Australia,Brisbane,Loyal,Social,N
+C01064,2026-05-08,United Kingdom,Manchester,New,Organic Search,N
+C01065,2026-05-09,United Kingdom,Bristol,Returning,Organic Search,N
+C01066,2026-04-02,Australia,Brisbane,Loyal,Email,N
+C01067,2026-08-10,India,Pune,New,Email,Y
+C01068,2026-07-19,United Kingdom,London,New,Direct,Y
+C01069,2026-08-18,Canada,Toronto,Returning,Direct,Y
+C01070,2026-05-30,United Kingdom,Bristol,At Risk,Email,N
+C01071,2026-05-27,Canada,Calgary,New,Paid Search,Y
+C01072,2026-07-26,India,Hyderabad,Returning,Email,N
+C01073,2026-05-06,United Kingdom,Bristol,Returning,Referral,N
+C01074,2026-06-21,Canada,Toronto,Loyal,Social,Y
+C01075,2026-07-04,United Kingdom,Manchester,At Risk,Organic Search,Y
+C01076,2026-06-19,United Kingdom,London,Returning,Paid Search,N
+C01077,2026-08-10,United States,Chicago,New,Organic Search,Y
+C01078,2026-03-15,United Kingdom,Manchester,New,Paid Search,Y
+C01079,2026-09-04,Australia,Melbourne,At Risk,Paid Search,N
+C01080,2026-03-26,Canada,Calgary,New,Organic Search,N
+C01081,2026-08-24,Canada,Vancouver,At Risk,Paid Search,Y
+C01082,2026-04-15,Australia,Brisbane,Loyal,Email,N
+C01083,2026-02-21,Australia,Brisbane,Loyal,Email,N
+C01084,2026-05-28,India,Delhi,New,Referral,Y
+C01085,2026-08-20,United Kingdom,Bristol,Loyal,Email,N
+C01086,2026-05-13,India,Hyderabad,Returning,Referral,Y
+C01087,2026-06-13,United Kingdom,London,Returning,Email,Y
+C01088,2026-05-05,Australia,Melbourne,New,Referral,Y
+C01089,2026-05-01,United Kingdom,Bristol,Loyal,Social,N
+C01090,2026-08-16,United Kingdom,Manchester,Returning,Email,Y
+C01091,2026-05-27,United States,Seattle,Loyal,Social,Y
+C01092,2026-04-25,Canada,Calgary,Returning,Paid Search,Y
+C01093,2026-05-27,United Kingdom,Bristol,At Risk,Organic Search,N
+C01094,2026-08-26,India,Bengaluru,Returning,Referral,N
+C01095,2026-07-09,Australia,Sydney,Loyal,Social,N
+C01096,2026-07-08,India,Hyderabad,New,Referral,N
+C01097,2026-09-14,United States,New York,New,Social,N
+C01098,2026-03-29,India,Bengaluru,Returning,Email,Y
+C01099,2026-08-19,India,Bengaluru,Returning,Organic Search,N
+C01100,2026-05-06,Australia,Melbourne,Loyal,Direct,N
+C01101,2026-05-30,India,Hyderabad,New,Social,Y
+C01102,2026-07-27,Australia,Melbourne,Returning,Direct,Y
+C01103,2026-06-24,United Kingdom,Manchester,Returning,Direct,N
+C01104,2026-06-06,India,Hyderabad,Returning,Organic Search,Y
+C01105,2026-08-15,United States,Chicago,Returning,Social,N
+C01106,2026-03-23,United Kingdom,Bristol,Returning,Referral,N
+C01107,2026-08-06,United States,Austin,Returning,Email,N
+C01108,2026-06-27,United Kingdom,London,New,Paid Search,Y
+C01109,2026-04-10,Australia,Brisbane,Loyal,Direct,Y
+C01110,2026-06-03,Canada,Toronto,New,Paid Search,Y
+C01111,2026-05-23,Canada,Calgary,Returning,Email,N
+C01112,2026-05-17,United States,New York,New,Direct,Y
+C01113,2026-05-23,United States,Chicago,New,Organic Search,N
+C01114,2026-07-14,India,Pune,Loyal,Organic Search,Y
+C01115,2026-09-12,India,Hyderabad,Returning,Email,Y
+C01116,2026-07-25,United Kingdom,Manchester,Returning,Organic Search,Y
+C01117,2026-07-17,Australia,Sydney,New,Social,Y
+C01118,2026-08-18,India,Bengaluru,At Risk,Social,N
+C01119,2026-05-14,United States,Chicago,Returning,Organic Search,Y
+C01120,2026-08-31,Australia,Sydney,Loyal,Social,Y
+C01121,2026-09-15,Australia,Sydney,At Risk,Referral,N
+C01122,2026-03-13,United Kingdom,London,Returning,Organic Search,Y
+C01123,2026-05-23,United Kingdom,London,Returning,Email,Y
+C01124,2026-07-30,United Kingdom,London,Returning,Email,N
+C01125,2026-04-27,United Kingdom,London,New,Email,Y
+C01126,2026-06-19,Canada,Calgary,Loyal,Direct,N
+C01127,2026-04-08,United States,Austin,At Risk,Email,Y
+C01128,2026-06-01,India,Bengaluru,New,Direct,N
+C01129,2026-05-20,India,Hyderabad,Returning,Organic Search,Y
+C01130,2026-05-17,United States,New York,Loyal,Paid Search,Y
+C01131,2026-07-03,United Kingdom,London,Returning,Email,Y
+C01132,2026-05-31,United States,Seattle,New,Direct,N
+C01133,2026-06-01,Canada,Calgary,Returning,Email,N
+C01134,2026-05-31,Australia,Melbourne,New,Social,N
+C01135,2026-07-13,Canada,Toronto,New,Direct,Y
+C01136,2026-05-09,India,Delhi,At Risk,Email,N
+C01137,2026-06-24,United States,New York,Loyal,Direct,N
+C01138,2026-06-29,Canada,Calgary,Returning,Referral,N
+C01139,2026-06-26,Australia,Brisbane,Returning,Organic Search,N
+C01140,2026-05-23,India,Bengaluru,Loyal,Email,N
+C01141,2026-08-04,India,Hyderabad,Returning,Social,Y
+C01142,2026-04-21,Canada,Vancouver,Loyal,Email,Y
+C01143,2026-03-13,Australia,Brisbane,Returning,Referral,N
+C01144,2026-05-04,Canada,Toronto,Returning,Email,N
+C01145,2026-03-27,Canada,Calgary,Returning,Social,N
+C01146,2026-08-31,India,Delhi,New,Social,N
+C01147,2026-09-12,Australia,Brisbane,New,Organic Search,N
+C01148,2026-05-28,United Kingdom,Manchester,New,Paid Search,Y
+C01149,2026-03-08,United States,New York,At Risk,Organic Search,N
+C01150,2026-05-17,India,Delhi,Returning,Organic Search,N
+C01151,2026-04-10,Canada,Vancouver,New,Direct,N
+C01152,2026-08-16,Australia,Melbourne,Returning,Social,Y
+C01153,2026-08-20,Canada,Calgary,New,Email,N
+C01154,2026-03-16,United States,Austin,At Risk,Paid Search,N
+C01155,2026-03-30,India,Bengaluru,New,Social,N
+C01156,2026-04-11,United States,New York,Loyal,Referral,Y
+C01157,2026-05-24,Australia,Sydney,Returning,Referral,N
+C01158,2026-07-01,Canada,Toronto,Returning,Social,N
+C01159,2026-03-19,Canada,Vancouver,New,Email,N
+C01160,2026-04-21,Australia,Brisbane,Loyal,Paid Search,Y
+C01161,2026-07-21,Australia,Melbourne,New,Direct,N
+C01162,2026-03-25,United Kingdom,Bristol,Loyal,Email,Y
+C01163,2026-07-04,Australia,Melbourne,New,Paid Search,N
+C01164,2026-05-08,Canada,Toronto,Returning,Email,N
+C01165,2026-02-27,United Kingdom,Manchester,Returning,Paid Search,N
+C01166,2026-07-12,United States,,New,Social,N
+C01167,2026-04-07,Canada,Vancouver,Returning,Organic Search,Y
+C01168,2026-06-01,United States,New York,New,Social,Y
+C01169,2026-05-19,India,Delhi,New,Organic Search,N
+C01170,2026-07-11,Australia,Sydney,At Risk,Email,N
+C01171,2026-06-21,India,Mumbai,New,Referral,Y
+C01172,2026-04-06,Australia,Brisbane,At Risk,Referral,N
+C01173,2026-07-24,Canada,Calgary,New,Social,N
+C01174,2026-06-14,Australia,Brisbane,Loyal,Email,Y
+C01175,2026-07-16,United States,Chicago,At Risk,Email,N
+C01176,2026-03-07,United Kingdom,Manchester,Returning,Direct,Y
+C01177,2026-04-11,United Kingdom,Manchester,Returning,Social,Y
+C01178,2026-05-17,United Kingdom,Manchester,Loyal,Organic Search,Y
+C01179,2026-04-05,India,Mumbai,New,Email,N
+C01180,2026-02-14,United Kingdom,Bristol,Loyal,Email,N
+C01181,2026-06-21,India,Bengaluru,New,Paid Search,N
+C01182,2026-08-18,United States,Seattle,Returning,Direct,N
+C01183,2026-07-17,India,Delhi,Loyal,Email,N
+C01184,2026-06-22,Canada,Vancouver,Loyal,Organic Search,Y
+C01185,2026-03-29,United Kingdom,Manchester,Returning,Direct,N
+C01186,2026-02-06,Canada,Toronto,Returning,Paid Search,N
+C01187,2026-08-26,United States,Chicago,Returning,Social,Y
+C01188,2026-07-07,India,Hyderabad,Loyal,Direct,Y
+C01189,2026-03-05,Australia,Melbourne,Returning,Direct,Y
+C01190,2026-07-31,United Kingdom,Bristol,Loyal,Social,Y
+C01191,2026-05-10,India,Mumbai,Returning,Email,Y
+C01192,2026-09-24,India,Hyderabad,Returning,Direct,Y
+C01193,2026-04-17,India,Bengaluru,Loyal,Paid Search,Y
+C01194,2026-03-23,Canada,Calgary,New,Organic Search,N
+C01195,2026-03-16,United States,New York,Loyal,Email,N
+C01196,2026-07-16,Canada,Calgary,New,Social,N
+C01197,2026-05-04,Canada,Vancouver,Loyal,Referral,Y
+C01198,2026-02-21,United Kingdom,Manchester,New,Paid Search,Y
+C01199,2026-06-10,United Kingdom,Bristol,Returning,Paid Search,N
+C01200,2026-03-20,Australia,Melbourne,New,Email,Y
+C01201,2026-03-02,United Kingdom,Bristol,New,Email,N
+C01202,2026-06-01,Australia,Sydney,Returning,Organic Search,N
+C01203,2026-05-31,United States,Austin,At Risk,Direct,Y
+C01204,2026-06-30,India,Hyderabad,Returning,Email,N
+C01205,2026-03-13,United States,Chicago,New,Referral,N
+C01206,2026-04-12,United Kingdom,London,New,Referral,N
+C01207,2026-06-03,United States,Austin,New,Paid Search,N
+C01208,2026-06-29,United Kingdom,Manchester,New,Social,N
+C01209,2026-06-09,Australia,Sydney,New,Email,Y
+C01210,2026-03-26,Australia,Melbourne,New,Paid Search,Y
+C01211,2026-06-18,United States,Seattle,New,Direct,N
+C01212,2026-08-29,Canada,Vancouver,New,Social,N
+C01213,2026-04-04,Canada,Calgary,Loyal,Organic Search,N
+C01214,2026-08-04,India,Bengaluru,New,Paid Search,N
+C01215,2026-03-22,Australia,Sydney,Returning,Organic Search,Y
+C01216,2026-07-28,Canada,Vancouver,Returning,Social,Y
+C01217,2026-03-23,United Kingdom,London,Returning,Referral,Y
+C01218,2026-06-24,United Kingdom,London,Returning,Direct,N
+C01219,2026-03-11,Canada,Calgary,Returning,Social,Y
+C01220,2026-04-28,Australia,Brisbane,At Risk,Referral,Y
+C01221,2026-09-09,United States,Austin,New,Organic Search,Y
+C01222,2026-03-24,Australia,Sydney,Returning,Paid Search,Y
+C01223,2026-07-11,Canada,Toronto,New,Email,N
+C01224,2026-07-21,United States,Seattle,Loyal,Direct,N
+C01225,2026-07-21,Australia,Brisbane,New,Social,Y
+C01226,2026-06-04,Canada,Vancouver,Returning,Referral,N
+C01227,2026-06-05,India,Bengaluru,Returning,Email,N
+C01228,2026-08-23,India,Bengaluru,At Risk,Direct,Y
+C01229,2026-04-30,United States,New York,New,Email,Y
+C01230,2026-05-26,Canada,Toronto,Returning,Social,Y
+C01231,2026-05-02,Australia,Brisbane,New,Organic Search,Y
+C01232,2026-08-06,Australia,Melbourne,Returning,Email,N
+C01233,2026-07-04,United Kingdom,London,Loyal,Organic Search,Y
+C01234,2026-08-06,Canada,Toronto,Loyal,Organic Search,Y
+C01235,2026-02-21,Canada,Vancouver,Returning,Email,N
+C01236,2026-06-16,Australia,Sydney,New,Organic Search,N
+C01237,2026-05-16,India,Delhi,New,Organic Search,Y
+C01238,2026-03-17,United States,Seattle,Returning,Direct,N
+C01239,2026-04-17,United Kingdom,Bristol,Returning,Direct,N
+C01240,2026-07-18,United Kingdom,London,New,Organic Search,Y
+C01241,2026-08-08,United States,Seattle,Returning,Direct,Y
+C01242,2026-04-17,Canada,Calgary,New,Social,N
+C01243,2026-04-29,United States,New York,New,Paid Search,N
+C01244,2026-04-04,Canada,Vancouver,Returning,Paid Search,N
+C01245,2026-04-26,Australia,Melbourne,New,Direct,N
+C01246,2026-05-14,Canada,Calgary,Returning,Referral,N
+C01247,2026-04-24,India,Pune,Returning,Direct,N
+C01248,2026-08-19,United States,New York,Returning,Social,Y
+C01249,2026-03-15,United Kingdom,Manchester,New,Referral,N
+C01250,2026-03-03,Canada,Toronto,New,Direct,Y
+C01251,2026-06-02,Canada,Toronto,Returning,Referral,N
+C01252,2026-03-15,Australia,Sydney,Loyal,Direct,N
+C01253,2026-03-23,Canada,Calgary,Returning,Email,Y
+C01254,2026-06-27,Australia,Brisbane,Loyal,Direct,N
+C01255,2026-06-30,United States,Chicago,Returning,Organic Search,N
+C01256,2026-05-31,Canada,Toronto,Returning,Organic Search,N
+C01257,2026-06-14,United Kingdom,London,New,Referral,Y
+C01258,2026-06-03,India,Delhi,Returning,Organic Search,Y
+C01259,2026-06-17,Canada,Vancouver,Loyal,Referral,N
+C01260,2026-04-02,United States,New York,Loyal,Email,N
+C01261,2026-08-24,India,Hyderabad,Returning,Organic Search,Y
+C01262,2026-07-16,Australia,Brisbane,New,Paid Search,N
+C01263,2026-07-03,United States,Seattle,Loyal,Email,Y
+C01264,2026-03-12,United States,Austin,Loyal,Organic Search,Y
+C01265,2026-06-05,Canada,Toronto,New,Email,N
+C01266,2026-04-04,United Kingdom,London,New,Direct,N
+C01267,2026-04-04,United Kingdom,London,New,Referral,N
+C01268,2026-08-17,United States,Seattle,Returning,Email,N
+C01269,2026-03-03,Australia,Sydney,Returning,Organic Search,Y
+C01270,2026-05-27,India,Pune,At Risk,Paid Search,N
+C01271,2026-06-10,India,Delhi,Returning,Direct,Y
+C01272,2026-08-27,Australia,Brisbane,Loyal,Referral,N
+C01273,2026-06-16,Canada,Calgary,Loyal,Social,N
+C01274,2026-09-20,United Kingdom,Manchester,At Risk,Referral,Y
+C01275,2026-05-20,Canada,Toronto,Loyal,Referral,N
+C01276,2026-03-13,United Kingdom,London,Loyal,Organic Search,Y
+C01277,2026-06-01,Australia,Brisbane,Loyal,Paid Search,N
+C01278,2026-08-10,United States,Austin,Returning,Direct,Y
+C01279,2026-09-19,India,Hyderabad,Returning,Paid Search,N
+C01280,2026-04-01,Canada,Calgary,New,Social,N
+C01281,2026-05-10,Australia,Sydney,Loyal,Organic Search,N
+C01282,2026-04-24,United Kingdom,London,Returning,Paid Search,Y
+C01283,2026-06-04,United Kingdom,Bristol,Loyal,Direct,Y
+C01284,2026-05-07,Canada,Toronto,New,Referral,Y
+C01285,2026-04-13,United Kingdom,London,Loyal,Email,Y
+C01286,2026-08-13,India,Mumbai,Returning,Email,Y
+C01287,2026-03-14,United Kingdom,Manchester,Returning,Referral,N
+C01288,2026-04-05,United Kingdom,Bristol,Returning,Email,N
+C01289,2026-06-30,Canada,Calgary,New,Direct,N
+C01290,2026-03-06,United States,New York,Returning,Email,N
+C01291,2026-08-21,India,Hyderabad,Returning,Organic Search,N
+C01292,2026-07-25,India,Hyderabad,New,Referral,Y
+C01293,2026-05-17,India,Bengaluru,New,Email,Y
+C01294,2026-08-15,United States,Seattle,New,Social,N
+C01295,2026-08-07,United States,Seattle,New,Referral,N
+C01296,2026-08-16,India,Pune,Returning,Referral,N
+C01297,2026-05-27,United Kingdom,Bristol,Loyal,Paid Search,Y
+C01298,2026-03-21,Australia,Melbourne,Returning,Paid Search,N
+C01299,2026-04-06,India,Hyderabad,Returning,Paid Search,N
+C01300,2026-03-18,United Kingdom,Bristol,Loyal,Direct,N
+C01301,2026-08-04,India,Delhi,Returning,Direct,N
+C01302,2026-02-24,Australia,Brisbane,Returning,Paid Search,Y
+C01303,2026-04-02,Australia,Melbourne,Returning,Organic Search,Y
+C01304,2026-06-17,Australia,Melbourne,Loyal,Paid Search,N
+C01305,2026-04-25,India,Bengaluru,Returning,Organic Search,N
+C01306,2026-06-02,India,Mumbai,Returning,Referral,N
+C01307,2026-06-02,Canada,Toronto,At Risk,Referral,Y
+C01308,2026-07-07,United Kingdom,Manchester,Loyal,Paid Search,N
+C01309,2026-02-19,Canada,Toronto,Returning,Social,Y
+C01310,2026-08-06,India,Pune,New,Paid Search,N
+C01311,2026-06-20,United Kingdom,London,New,Paid Search,Y
+C01312,2026-05-11,Canada,Calgary,Returning,Organic Search,N
+C01313,2026-06-10,India,Hyderabad,Returning,Email,Y
+C01314,2026-03-06,Canada,Toronto,New,Referral,Y
+C01315,2026-04-22,United States,Chicago,New,Email,N
+C01316,2026-03-24,India,Mumbai,Loyal,Paid Search,N
+C01317,2026-08-08,Australia,Sydney,Returning,Email,N
+C01318,2026-09-22,India,Pune,At Risk,Referral,N
+C01319,2026-08-04,United States,Seattle,New,Social,N
+C01320,2026-03-06,United Kingdom,Bristol,Loyal,Social,Y
+C01321,2026-04-23,United States,New York,New,Email,Y
+C01322,2026-03-29,United States,Seattle,New,Referral,N
+C01323,2026-03-08,United Kingdom,Bristol,Returning,Paid Search,N
+C01324,2026-07-08,United Kingdom,Bristol,New,Direct,Y
+C01325,2026-03-29,India,Delhi,At Risk,Direct,Y
+C01326,2026-05-08,Canada,Calgary,Loyal,Email,Y
+C01327,2026-03-18,India,Pune,Returning,Social,N
+C01328,2026-05-26,Australia,Sydney,Loyal,Direct,Y
+C01329,2026-04-28,India,Mumbai,Returning,Paid Search,Y
+C01330,2026-04-07,United Kingdom,Bristol,Returning,Organic Search,N
+C01331,2026-07-04,United States,Austin,New,Email,Y
+C01332,2026-08-03,India,Pune,New,Social,N
+C01333,2026-03-25,United States,Chicago,New,Paid Search,Y
+C01334,2026-07-25,United States,Chicago,Loyal,Direct,N
+C01335,2026-02-10,United States,Austin,Returning,Email,Y
+C01336,2026-04-02,Canada,Calgary,New,Social,N
+C01337,2026-05-30,Canada,Calgary,Returning,Email,N
+C01338,2026-09-15,Australia,Brisbane,New,Social,N
+C01339,2026-04-29,Australia,Sydney,Returning,Social,Y
+C01340,2026-09-11,Australia,,At Risk,Email,Y
+C01341,2026-06-22,United States,Austin,New,Direct,Y
+C01342,2026-04-28,India,Delhi,Returning,Direct,N
+C01343,2026-06-05,United Kingdom,Manchester,New,Social,Y
+C01344,2026-05-10,United Kingdom,London,At Risk,Referral,N
+C01345,2026-03-22,India,Hyderabad,New,Organic Search,Y
+C01346,2026-07-08,Canada,Calgary,New,Paid Search,Y
+C01347,2026-08-06,Canada,Calgary,Returning,Organic Search,Y
+C01348,2026-03-14,India,Bengaluru,Loyal,Email,Y
+C01349,2026-05-02,Australia,Brisbane,Loyal,Referral,Y
+C01350,2026-05-24,Canada,Vancouver,Loyal,Referral,Y
+C01351,2026-04-17,United Kingdom,Bristol,Loyal,Email,N
+C01352,2026-06-19,Australia,Sydney,New,Direct,Y
+C01353,2026-08-09,Australia,Brisbane,New,Referral,N
+C01354,2026-05-16,United Kingdom,Bristol,Returning,Paid Search,Y
+C01355,2026-07-24,United States,Chicago,New,Email,N
+C01356,2026-04-30,United Kingdom,Bristol,Loyal,Paid Search,N
+C01357,2026-03-21,United Kingdom,Manchester,Returning,Organic Search,Y
+C01358,2026-07-04,India,Hyderabad,Loyal,Email,N
+C01359,2026-07-21,United States,Chicago,Loyal,Social,Y
+C01360,2026-03-21,Canada,Vancouver,Returning,Social,N
+C01361,2026-06-12,Australia,Melbourne,New,Email,Y
+C01362,2026-08-03,Canada,Toronto,Returning,Direct,Y
+C01363,2026-03-08,Canada,Toronto,Returning,Social,N
+C01364,2026-05-02,United States,New York,Returning,Organic Search,N
+C01365,2026-03-19,India,Mumbai,New,Paid Search,N
+C01366,2026-08-06,India,Mumbai,New,Paid Search,N
+C01367,2026-06-30,United States,Chicago,New,Organic Search,Y
+C01368,2026-07-08,United Kingdom,Bristol,New,Direct,Y
+C01369,2026-06-28,United Kingdom,Manchester,New,Social,Y
+C01370,2026-04-20,Australia,Melbourne,Loyal,Organic Search,Y
+C01371,2026-08-18,United States,Chicago,New,Email,N
+C01372,2026-03-28,United Kingdom,Bristol,New,Organic Search,Y
+C01373,2026-07-07,Australia,Sydney,New,Organic Search,N
+C01374,2026-04-30,United States,Seattle,New,Organic Search,N
+C01375,2026-07-26,Australia,Brisbane,Returning,Direct,N
+C01376,2026-04-20,Canada,Toronto,New,Social,N
+C01377,2026-04-19,Canada,Calgary,Returning,Referral,Y
+C01378,2026-08-02,United States,Chicago,Returning,Paid Search,N
+C01379,2026-06-11,United States,Seattle,Returning,Social,N
+C01380,2026-07-19,Australia,Sydney,New,Referral,N
+C01381,2026-03-07,United States,Seattle,Returning,Social,N
+C01382,2026-05-01,Canada,Vancouver,Returning,Email,N
+C01383,2026-04-27,United Kingdom,London,Returning,Social,Y
+C01384,2026-07-29,United Kingdom,Bristol,Returning,Direct,Y
+C01385,2026-06-10,United Kingdom,London,New,Organic Search,Y
+C01386,2026-07-25,United Kingdom,Manchester,New,Direct,N
+C01387,2026-03-12,United States,Chicago,At Risk,Direct,N
+C01388,2026-06-04,India,Bengaluru,Loyal,Email,N
+C01389,2026-02-15,Australia,Melbourne,Returning,Paid Search,N
+C01390,2026-07-20,United States,Chicago,Returning,Referral,N
+C01391,2026-06-25,Canada,Toronto,New,Paid Search,N
+C01392,2026-07-07,Canada,Vancouver,Loyal,Organic Search,N
+C01393,2026-05-01,United States,Chicago,New,Direct,Y
+C01394,2026-04-08,Canada,Vancouver,New,Email,N
+C01395,2026-03-12,Canada,Vancouver,New,Organic Search,Y
+C01396,2026-08-22,United States,Austin,Returning,Referral,N
+C01397,2026-08-09,Canada,Vancouver,New,Email,Y
+C01398,2026-07-26,Canada,Calgary,At Risk,Direct,N
+C01399,2026-06-25,India,Hyderabad,New,Direct,N
+C01400,2026-06-27,India,Delhi,At Risk,Email,N
+C01401,2026-06-21,United States,New York,Returning,Social,Y
+C01402,2026-07-04,United States,Seattle,Returning,Organic Search,Y
+C01403,2026-05-16,Australia,Brisbane,New,Paid Search,Y
+C01404,2026-06-10,United States,Seattle,New,Referral,N
+C01405,2026-07-13,Australia,Brisbane,Returning,Social,Y
+C01406,2026-07-24,India,Delhi,Loyal,Referral,Y
+C01407,2026-07-06,Australia,Brisbane,Loyal,Email,N
+C01408,2026-09-07,Australia,Sydney,New,Email,N
+C01409,2026-06-01,United Kingdom,London,Returning,Paid Search,N
+C01410,2026-06-22,Canada,Calgary,New,Referral,Y
+C01411,2026-04-05,Canada,Toronto,New,Paid Search,N
+C01412,2026-06-30,Australia,Sydney,Returning,Direct,Y
+C01413,2026-06-05,Canada,Calgary,New,Social,Y
+C01414,2026-05-13,India,Bengaluru,Returning,Paid Search,N
+C01415,2026-03-27,United States,Seattle,New,Direct,N
+C01416,2026-06-22,Canada,Vancouver,Loyal,Email,Y
+C01417,2026-06-05,India,Mumbai,New,Direct,N
+C01418,2026-04-09,Canada,Toronto,Returning,Paid Search,N
+C01419,2026-05-25,United States,Austin,Loyal,Paid Search,Y
+C01420,2026-07-18,Australia,Melbourne,New,Direct,N
+C01421,2026-08-24,United States,New York,Returning,Paid Search,N
+C01422,2026-06-30,United Kingdom,Bristol,New,Direct,Y
+C01423,2026-02-07,Canada,Calgary,Loyal,Direct,Y
+C01424,2026-02-25,Canada,Vancouver,New,Organic Search,Y
+C01425,2026-08-09,Canada,Toronto,Returning,Paid Search,Y
+C01426,2026-08-23,India,Delhi,At Risk,Social,Y
+C01427,2026-08-01,India,Delhi,Loyal,Direct,Y
+C01428,2026-08-16,United States,New York,Loyal,Social,Y
+C01429,2026-08-07,Australia,Brisbane,Returning,Email,Y
+C01430,2026-06-14,United States,Austin,New,Organic Search,N
+C01431,2026-08-22,United Kingdom,London,Returning,Organic Search,N
+C01432,2026-05-01,Australia,Sydney,Loyal,Email,N
+C01433,2026-04-02,Australia,Brisbane,Returning,Referral,Y
+C01434,2026-08-15,United Kingdom,Manchester,At Risk,Direct,N
+C01435,2026-05-19,United States,Austin,At Risk,Direct,N
+C01436,2026-05-09,India,Hyderabad,At Risk,Email,N
+C01437,2026-04-07,Australia,Sydney,Returning,Direct,Y
+C01438,2026-09-04,United States,New York,New,Direct,N
+C01439,2026-03-01,United States,New York,New,Email,N
+C01440,2026-07-18,United States,Chicago,Returning,Paid Search,N
+C01441,2026-07-15,United Kingdom,Manchester,Returning,Organic Search,N
+C01442,2026-08-09,United Kingdom,Bristol,New,Paid Search,Y
+C01443,2026-09-15,Australia,Brisbane,At Risk,Direct,Y
+C01444,2026-05-29,Australia,Melbourne,New,Direct,Y
+C01445,2026-04-02,India,Mumbai,New,Paid Search,Y
+C01446,2026-07-20,United States,Chicago,New,Organic Search,N
+C01447,2026-05-24,Canada,Calgary,New,Email,Y
+C01448,2026-06-18,Australia,Melbourne,Returning,Direct,Y
+C01449,2026-04-05,United Kingdom,Manchester,Returning,Paid Search,N
+C01450,2026-05-17,Canada,Calgary,Loyal,Paid Search,N
+C01451,2026-05-23,India,Delhi,Loyal,Social,Y
+C01452,2026-07-04,Australia,Melbourne,Returning,Email,N
+C01453,2026-04-18,Canada,Vancouver,New,Paid Search,N
+C01454,2026-08-20,United States,Chicago,New,Referral,N
+C01455,2026-06-18,Canada,Vancouver,At Risk,Direct,N
+C01456,2026-04-17,Canada,Calgary,At Risk,Organic Search,N
+C01457,2026-07-25,India,Hyderabad,New,Email,N
+C01458,2026-05-08,United Kingdom,Manchester,Returning,Social,Y
+C01459,2026-06-01,Canada,Toronto,New,Organic Search,N
+C01460,2026-03-18,India,Mumbai,New,Email,Y
+C01461,2026-07-07,United Kingdom,Bristol,At Risk,Paid Search,Y
+C01462,2026-08-19,India,Pune,Returning,Referral,Y
+C01463,2026-08-09,Australia,Melbourne,New,Email,N
+C01464,2026-04-29,United Kingdom,Bristol,Loyal,Referral,N
+C01465,2026-07-16,Canada,Calgary,Returning,Social,Y
+C01466,2026-08-07,United Kingdom,Bristol,Returning,Social,Y
+C01467,2026-03-29,United States,New York,New,Direct,N
+C01468,2026-05-28,Australia,Melbourne,Loyal,Paid Search,Y
+C01469,2026-07-30,United Kingdom,London,New,Paid Search,Y
+C01470,2026-04-30,Canada,Toronto,New,Organic Search,Y
+C01471,2026-07-23,United States,Seattle,Returning,Referral,Y
+C01472,2026-07-30,United States,New York,Returning,Social,Y
+C01473,2026-08-31,United Kingdom,London,Returning,Direct,Y
+C01474,2026-08-03,India,Delhi,Returning,Organic Search,Y
+C01475,2026-05-10,United States,New York,Returning,Referral,N
+C01476,2026-05-20,Canada,Vancouver,Returning,Social,N
+C01477,2026-07-04,United Kingdom,London,At Risk,Direct,N
+C01478,2026-03-01,Canada,Vancouver,Loyal,Organic Search,Y
+C01479,2026-03-01,Canada,Calgary,Loyal,Paid Search,Y
+C01480,2026-08-25,Australia,Brisbane,New,Direct,Y
+C01481,2026-05-17,United Kingdom,Bristol,Returning,Email,N
+C01482,2026-09-10,United States,Austin,New,Social,Y
+C01483,2026-03-09,United Kingdom,London,Returning,Email,Y
+C01484,2026-06-13,United Kingdom,Manchester,At Risk,Direct,Y
+C01485,2026-06-25,Canada,Toronto,Loyal,Referral,Y
+C01486,2026-05-16,United States,New York,New,Direct,N
+C01487,2026-04-16,United States,Seattle,Returning,Paid Search,Y
+C01488,2026-08-06,United States,New York,New,Direct,Y
+C01489,2026-07-06,United States,Seattle,Loyal,Paid Search,N
+C01490,2026-02-18,Canada,Calgary,New,Referral,N
+C01491,2026-02-26,India,Mumbai,At Risk,Referral,Y
+C01492,2026-06-24,United Kingdom,Bristol,Loyal,Direct,N
+C01493,2026-06-02,Australia,Sydney,New,Organic Search,N
+C01494,2026-07-09,India,Bengaluru,Loyal,Paid Search,Y
+C01495,2026-05-07,Australia,Melbourne,At Risk,Referral,Y
+C01496,2026-08-23,United Kingdom,Bristol,New,Email,N
+C01497,2026-06-20,United Kingdom,Bristol,At Risk,Paid Search,Y
+C01498,2026-04-22,India,Hyderabad,Loyal,Social,Y
+C01499,2026-07-07,United Kingdom,Bristol,Returning,Referral,N
+C01500,2026-04-07,United States,New York,Returning,Social,Y
+C01501,2026-03-10,United Kingdom,Manchester,Returning,Paid Search,N
+C01502,2026-02-26,United Kingdom,London,At Risk,Social,Y
+C01503,2026-07-19,United States,New York,At Risk,Paid Search,N
+C01504,2026-07-08,Canada,Calgary,At Risk,Paid Search,Y
+C01505,2026-05-14,Australia,Melbourne,Returning,Social,N
+C01506,2026-08-16,Canada,Calgary,New,Direct,Y
+C01507,2026-04-29,Australia,Sydney,New,Referral,Y
+C01508,2026-05-17,United Kingdom,London,Returning,Email,N
+C01509,2026-07-08,United Kingdom,London,Loyal,Paid Search,Y
+C01510,2026-03-13,United Kingdom,Bristol,Loyal,Paid Search,N
+C01511,2026-04-03,Canada,Toronto,At Risk,Organic Search,N
+C01512,2026-08-16,Canada,Toronto,New,Referral,N
+C01513,2026-04-21,Australia,Brisbane,Loyal,Paid Search,Y
+C01514,2026-06-26,India,Pune,New,Referral,Y
+C01515,2026-03-27,Canada,Calgary,Returning,Email,N
+C01516,2026-04-03,United Kingdom,Manchester,Returning,Organic Search,Y
+C01517,2026-08-01,India,Hyderabad,New,Referral,N
+C01518,2026-03-24,United Kingdom,London,Loyal,Paid Search,N
+C01519,2026-04-02,Canada,Vancouver,New,Paid Search,Y
+C01520,2026-08-30,United Kingdom,Bristol,New,Direct,Y
+C01521,2026-05-03,Canada,Calgary,Loyal,Referral,N
+C01522,2026-05-14,India,Hyderabad,Returning,Direct,Y
+C01523,2026-04-12,United States,New York,New,Referral,Y
+C01524,2026-04-09,India,Bengaluru,New,Paid Search,Y
+C01525,2026-08-14,United States,Austin,Loyal,Organic Search,Y
+C01526,2026-04-13,India,Bengaluru,At Risk,Paid Search,N
+C01527,2026-06-18,India,Delhi,At Risk,Referral,N
+C01528,2026-04-18,Australia,Brisbane,Returning,Social,N
+C01529,2026-04-18,Australia,Sydney,Returning,Direct,Y
+C01530,2026-08-04,United States,Chicago,New,Paid Search,Y
+C01531,2026-03-26,Australia,Brisbane,Returning,Paid Search,N
+C01532,2026-03-30,India,Bengaluru,Returning,Paid Search,N
+C01533,2026-09-09,Canada,Vancouver,Returning,Direct,Y
+C01534,2026-06-14,Australia,Brisbane,Loyal,Direct,Y
+C01535,2026-04-21,United Kingdom,Bristol,Loyal,Referral,Y
+C01536,2026-07-13,Canada,Vancouver,Returning,Referral,Y
+C01537,2026-05-31,India,Hyderabad,New,Referral,N
+C01538,2026-06-18,India,Delhi,Returning,Social,N
+C01539,2026-06-22,United States,New York,New,Paid Search,N
+C01540,2026-07-12,India,Hyderabad,Loyal,Social,N
+C01541,2026-04-10,India,Hyderabad,Loyal,Referral,N
+C01542,2026-09-02,Australia,Sydney,New,Email,Y
+C01543,2026-03-31,United Kingdom,Bristol,Returning,Email,N
+C01544,2026-07-16,Australia,Sydney,Returning,Direct,Y
+C01545,2026-07-20,United States,Austin,New,Direct,N
+C01546,2026-03-19,United States,Seattle,Loyal,Paid Search,N
+C01547,2026-05-06,United Kingdom,Manchester,New,Email,Y
+C01548,2026-04-15,United Kingdom,London,At Risk,Email,N
+C01549,2026-02-25,India,Delhi,Loyal,Organic Search,Y
+C01550,2026-07-23,Australia,Brisbane,New,Email,Y
+C01551,2026-03-13,Canada,Calgary,New,Email,Y
+C01552,2026-09-06,Canada,Toronto,At Risk,Direct,Y
+C01553,2026-03-09,Canada,Calgary,New,Direct,Y
+C01554,2026-04-19,Australia,Brisbane,At Risk,Referral,Y
+C01555,2026-08-05,United States,Chicago,Returning,Organic Search,N
+C01556,2026-05-06,Canada,Vancouver,At Risk,Social,Y
+C01557,2026-07-20,Australia,Melbourne,Returning,Social,Y
+C01558,2026-03-29,India,Pune,New,Social,Y
+C01559,2026-04-19,Canada,Vancouver,New,Organic Search,N
+C01560,2026-06-08,United Kingdom,London,New,Direct,Y
+C01561,2026-05-03,Canada,Toronto,Returning,Paid Search,Y
+C01562,2026-05-19,Australia,Sydney,Returning,Email,Y
+C01563,2026-03-02,United States,Chicago,Returning,Social,N
+C01564,2026-06-10,United Kingdom,London,Returning,Social,Y
+C01565,2026-04-08,Canada,Vancouver,New,Social,N
+C01566,2026-06-27,India,Mumbai,New,Social,Y
+C01567,2026-05-18,United States,Austin,At Risk,Paid Search,Y
+C01568,2026-03-01,Canada,Toronto,Returning,Referral,N
+C01569,2026-06-27,United States,Seattle,Returning,Direct,N
+C01570,2026-07-10,United States,New York,New,Social,Y
+C01571,2026-08-31,United States,Austin,Returning,Referral,Y
+C01572,2026-04-19,Canada,Vancouver,Returning,Email,Y
+C01573,2026-08-08,Australia,Brisbane,New,Social,Y
+C01574,2026-02-18,United Kingdom,Bristol,Loyal,Paid Search,N
+C01575,2026-03-21,India,Hyderabad,Returning,Paid Search,Y
+C01576,2026-07-10,United States,Seattle,New,Paid Search,Y
+C01577,2026-09-05,Canada,Toronto,New,Organic Search,N
+C01578,2026-04-08,Canada,Calgary,Returning,Paid Search,Y
+C01579,2026-05-14,United Kingdom,London,Returning,Direct,Y
+C01580,2026-07-21,United Kingdom,Manchester,New,Social,N
+C01581,2026-07-08,United States,New York,New,Organic Search,Y
+C01582,2026-06-26,United Kingdom,Manchester,New,Referral,Y
+C01583,2026-07-01,Canada,Vancouver,Returning,Social,Y
+C01584,2026-02-11,India,Hyderabad,Loyal,Paid Search,N
+C01585,2026-06-17,United Kingdom,Bristol,Returning,Social,Y
+C01586,2026-07-16,United Kingdom,Manchester,New,Organic Search,Y
+C01587,2026-07-04,Australia,Brisbane,At Risk,Direct,Y
+C01588,2026-03-02,United States,New York,New,Referral,N
+C01589,2026-05-20,United Kingdom,London,Returning,Paid Search,Y
+C01590,2026-07-09,United States,Austin,Loyal,Referral,N
+C01591,2026-05-19,United Kingdom,Bristol,New,Email,Y
+C01592,2026-05-19,Canada,Calgary,Loyal,Paid Search,N
+C01593,2026-05-21,United States,New York,Loyal,Direct,Y
+C01594,2026-05-10,Canada,Calgary,Loyal,Organic Search,Y
+C01595,2026-04-17,Canada,Calgary,Loyal,Email,N
+C01596,2026-06-15,United States,Chicago,Returning,Referral,Y
+C01597,2026-05-09,Australia,Brisbane,Loyal,Social,N
+C01598,2026-07-02,United States,Austin,Returning,Paid Search,Y
+C01599,2026-04-02,India,Bengaluru,New,Paid Search,N
+C01600,2026-07-18,United States,New York,Returning,Paid Search,Y
+C01601,2026-07-03,Australia,Brisbane,New,Referral,N
+C01602,2026-09-09,United Kingdom,Bristol,Loyal,Social,Y
+C01603,2026-03-16,Canada,Vancouver,At Risk,Direct,Y
+C01604,2026-07-22,United Kingdom,Manchester,New,Organic Search,Y
+C01605,2026-03-03,Canada,Calgary,Returning,Referral,Y
+C01606,2026-06-26,Canada,Vancouver,New,Direct,N
+C01607,2026-04-23,United States,Seattle,Returning,Email,Y
+C01608,2026-07-15,Canada,Toronto,Loyal,Paid Search,Y
+C01609,2026-05-28,Australia,Brisbane,New,Social,Y
+C01610,2026-08-16,United Kingdom,London,Loyal,Direct,Y
+C01611,2026-06-30,India,Pune,New,Direct,N
+C01612,2026-03-28,India,Delhi,Returning,Email,N
+C01613,2026-08-25,India,Delhi,Loyal,Direct,Y
+C01614,2026-07-18,United States,New York,New,Direct,Y
+C01615,2026-08-08,India,Bengaluru,Loyal,Organic Search,Y
+C01616,2026-05-19,United States,Seattle,Loyal,Social,N
+C01617,2026-07-08,Canada,Toronto,Returning,Social,Y
+C01618,2026-07-27,India,Hyderabad,New,Referral,N
+C01619,2026-09-28,United States,Chicago,New,Email,N
+C01620,2026-06-13,United States,Austin,New,Direct,N
+C01621,2026-04-08,India,Delhi,New,Social,N
+C01622,2026-03-18,India,Delhi,Returning,Organic Search,Y
+C01623,2026-07-05,Australia,Melbourne,Returning,Referral,Y
+C01624,2026-08-20,Canada,Calgary,Returning,Referral,N
+C01625,2026-07-23,United Kingdom,Manchester,Returning,Social,Y
+C01626,2026-08-12,India,Mumbai,New,Email,N
+C01627,2026-07-22,Canada,Calgary,Returning,Direct,N
+C01628,2026-07-29,United States,Chicago,New,Email,N
+C01629,2026-04-24,United Kingdom,Manchester,Returning,Email,N
+C01630,2026-04-14,United States,Chicago,Returning,Referral,N
+C01631,2026-04-18,Australia,Brisbane,Returning,Paid Search,N
+C01632,2026-04-20,India,Pune,Returning,Direct,Y
+C01633,2026-06-25,India,Delhi,New,Organic Search,N
+C01634,2026-04-10,Australia,Sydney,New,Social,N
+C01635,2026-06-16,United States,Chicago,Loyal,Referral,N
+C01636,2026-07-31,United States,Chicago,New,Paid Search,Y
+C01637,2026-06-12,United States,New York,Returning,Email,N
+C01638,2026-02-09,India,Hyderabad,New,Referral,Y
+C01639,2026-07-18,India,Mumbai,New,Organic Search,Y
+C01640,2026-04-26,Australia,Sydney,Returning,Paid Search,N
+C01641,2026-06-03,Canada,Vancouver,Returning,Direct,Y
+C01642,2026-07-13,United Kingdom,London,Loyal,Organic Search,Y
+C01643,2026-06-21,Australia,Melbourne,Loyal,Direct,N
+C01644,2026-07-24,Australia,Brisbane,Returning,Direct,Y
+C01645,2026-07-09,Canada,Toronto,Returning,Paid Search,Y
+C01646,2026-02-27,Canada,Toronto,Returning,Direct,Y
+C01647,2026-04-21,Canada,Calgary,Returning,Email,Y
+C01648,2026-06-08,India,Pune,New,Organic Search,Y
+C01649,2026-06-08,India,Bengaluru,New,Social,Y
+C01650,2026-07-09,Australia,Sydney,Returning,Social,Y
+C01651,2026-07-21,Australia,Sydney,New,Organic Search,Y
+C01652,2026-04-02,Australia,Sydney,New,Social,Y
+C01653,2026-06-15,United Kingdom,Bristol,New,Email,N
+C01654,2026-03-18,United States,New York,New,Direct,Y
+C01655,2026-06-25,Australia,Brisbane,Loyal,Email,Y
+C01656,2026-06-30,United Kingdom,Bristol,Returning,Direct,Y
+C01657,2026-07-28,United States,Chicago,Loyal,Paid Search,N
+C01658,2026-07-20,Canada,Vancouver,Returning,Email,Y
+C01659,2026-06-14,Canada,Calgary,Returning,Paid Search,N
+C01660,2026-08-07,India,Bengaluru,Returning,Organic Search,N
+C01661,2026-04-27,India,Mumbai,At Risk,Paid Search,Y
+C01662,2026-03-30,United Kingdom,Manchester,New,Paid Search,N
+C01663,2026-04-18,United Kingdom,Manchester,Returning,Paid Search,Y
+C01664,2026-04-01,Australia,Melbourne,Loyal,Email,N
+C01665,2026-02-16,Australia,Melbourne,Returning,Referral,N
+C01666,2026-08-23,United Kingdom,Manchester,Returning,Social,Y
+C01667,2026-02-21,Australia,Brisbane,Loyal,Direct,Y
+C01668,2026-07-24,United States,Seattle,New,Email,Y
+C01669,2026-06-18,United States,Seattle,Returning,Social,N
+C01670,2026-03-24,Canada,Vancouver,New,Paid Search,Y
+C01671,2026-04-25,Canada,Vancouver,New,Social,N
+C01672,2026-04-12,Australia,Brisbane,Loyal,Organic Search,N
+C01673,2026-08-26,Canada,Toronto,At Risk,Paid Search,Y
+C01674,2026-03-11,United Kingdom,Bristol,Loyal,Organic Search,N
+C01675,2026-04-15,Canada,Toronto,New,Organic Search,N
+C01676,2026-07-08,United Kingdom,London,New,Organic Search,N
+C01677,2026-07-31,Canada,Calgary,Returning,Email,Y
+C01678,2026-08-07,United Kingdom,London,New,Email,N
+C01679,2026-07-02,United Kingdom,Manchester,At Risk,Email,N
+C01680,2026-03-28,Australia,Sydney,At Risk,Email,N
+C01681,2026-06-15,Australia,Sydney,Returning,Referral,Y
+C01682,2026-03-21,India,Hyderabad,New,Direct,N
+C01683,2026-08-20,India,Pune,At Risk,Email,N
+C01684,2026-03-08,India,Bengaluru,Returning,Organic Search,N
+C01685,2026-03-20,United States,New York,New,Direct,Y
+C01686,2026-03-10,Canada,Toronto,Returning,Paid Search,N
+C01687,2026-07-27,United States,New York,Returning,Social,Y
+C01688,2026-06-16,United Kingdom,London,Returning,Direct,N
+C01689,2026-05-10,Canada,Vancouver,Loyal,Email,N
+C01690,2026-07-16,India,Pune,Returning,Referral,Y
+C01691,2026-05-06,Australia,Melbourne,Loyal,Direct,N
+C01692,2026-03-14,United Kingdom,London,At Risk,Organic Search,Y
+C01693,2026-04-25,India,Pune,New,Direct,Y
+C01694,2026-05-02,Canada,Toronto,Returning,Email,Y
+C01695,2026-05-12,United States,Seattle,New,Email,Y
+C01696,2026-05-01,United Kingdom,Bristol,Loyal,Direct,N
+C01697,2026-06-17,India,Mumbai,Returning,Social,N
+C01698,2026-05-30,United Kingdom,London,New,Email,Y
+C01699,2026-08-04,India,Bengaluru,Loyal,Referral,N
+C01700,2026-07-25,United Kingdom,Manchester,New,Email,Y
+C01701,2026-03-15,Australia,Sydney,Loyal,Referral,N
+C01702,2026-03-16,United States,Chicago,Returning,Social,Y
+C01703,2026-06-09,Canada,Calgary,Loyal,Referral,Y
+C01704,2026-06-15,Australia,Brisbane,At Risk,Referral,Y
+C01705,2026-06-15,United Kingdom,London,New,Organic Search,Y
+C01706,2026-04-10,India,Hyderabad,At Risk,Organic Search,N
+C01707,2026-07-28,India,Bengaluru,New,Direct,Y
+C01708,2026-07-17,United Kingdom,London,Loyal,Email,N
+C01709,2026-05-28,India,Mumbai,Returning,Direct,Y
+C01710,2026-06-04,India,Hyderabad,New,Paid Search,N
+C01711,2026-06-21,United Kingdom,London,Returning,Social,Y
+C01712,2026-08-07,Canada,Toronto,Returning,Email,Y
+C01713,2026-03-05,United States,Seattle,Loyal,Direct,N
+C01714,2026-07-05,United States,New York,At Risk,Direct,Y
+C01715,2026-05-28,India,Pune,At Risk,Referral,Y
+C01716,2026-05-07,United States,Austin,At Risk,Paid Search,Y
+C01717,2026-08-29,Australia,Brisbane,Loyal,Paid Search,N
+C01718,2026-06-08,India,Bengaluru,New,Organic Search,Y
+C01719,2026-06-22,United Kingdom,London,At Risk,Social,N
+C01720,2026-04-24,Canada,Calgary,At Risk,Paid Search,N
+C01721,2026-07-25,United States,Austin,At Risk,Organic Search,N
+C01722,2026-07-26,United States,Seattle,Returning,Email,N
+C01723,2026-07-15,Australia,Melbourne,Returning,Referral,N
+C01724,2026-07-17,Canada,Vancouver,Returning,Direct,Y
+C01725,2026-08-15,Canada,Toronto,At Risk,Social,N
+C01726,2026-04-21,United Kingdom,Bristol,At Risk,Referral,N
+C01727,2026-08-01,Canada,Toronto,Loyal,Email,Y
+C01728,2026-06-04,United Kingdom,London,Returning,Social,Y
+C01729,2026-07-01,United Kingdom,Manchester,Returning,Direct,N
+C01730,2026-05-10,United States,Austin,Loyal,Referral,Y
+C01731,2026-06-28,Canada,Toronto,Returning,Organic Search,N
+C01732,2026-02-15,Australia,Brisbane,Loyal,Email,N
+C01733,2026-05-24,United Kingdom,London,New,Email,N
+C01734,2026-06-18,India,Delhi,New,Paid Search,N
+C01735,2026-05-10,Australia,Brisbane,New,Organic Search,Y
+C01736,2026-05-29,Canada,Vancouver,New,Referral,Y
+C01737,2026-02-18,United Kingdom,London,Returning,Email,N
+C01738,2026-06-29,United Kingdom,Manchester,Returning,Referral,N
+C01739,2026-03-01,Canada,Vancouver,New,Email,N
+C01740,2026-06-27,India,Hyderabad,New,Paid Search,Y
+C01741,2026-07-03,India,Bengaluru,Loyal,Direct,N
+C01742,2026-06-24,United States,Chicago,Loyal,Social,Y
+C01743,2026-07-22,India,Delhi,New,Social,Y
+C01744,2026-06-22,United Kingdom,Bristol,Loyal,Email,N
+C01745,2026-08-03,United States,Seattle,New,Social,Y
+C01746,2026-05-28,Australia,Melbourne,Returning,Referral,Y
+C01747,2026-05-13,Australia,Melbourne,At Risk,Social,N
+C01748,2026-07-25,United States,Austin,Loyal,Social,Y
+C01749,2026-02-09,United States,New York,At Risk,Organic Search,Y
+C01750,2026-02-24,India,Pune,Loyal,Paid Search,N
+C01751,2026-05-19,India,Hyderabad,Loyal,Referral,N
+C01752,2026-05-18,United Kingdom,London,Loyal,Organic Search,Y
+C01753,2026-05-24,United States,Seattle,Loyal,Referral,Y
+C01754,2026-06-18,Canada,Vancouver,Returning,Direct,N
+C01755,2026-02-23,Australia,Sydney,Returning,Organic Search,Y
+C01756,2026-09-23,United States,Seattle,New,Organic Search,N
+C01757,2026-04-30,Australia,Melbourne,New,Referral,Y
+C01758,2026-04-26,United Kingdom,London,Returning,Email,N
+C01759,2026-04-28,India,Bengaluru,New,Direct,N
+C01760,2026-07-01,Canada,Toronto,Returning,Referral,N
+C01761,2026-03-30,Australia,Brisbane,Returning,Direct,Y
+C01762,2026-07-18,United States,New York,New,Organic Search,N
+C01763,2026-08-19,United States,New York,New,Referral,N
+C01764,2026-04-29,Canada,Toronto,Loyal,Direct,N
+C01765,2026-06-20,Canada,Toronto,New,Social,N
+C01766,2026-07-19,India,Hyderabad,At Risk,Referral,N
+C01767,2026-02-21,United Kingdom,London,New,Organic Search,Y
+C01768,2026-07-04,United States,Seattle,New,Organic Search,N
+C01769,2026-05-09,Canada,Toronto,At Risk,Organic Search,Y
+C01770,2026-03-24,India,Pune,Returning,Email,Y
+C01771,2026-07-06,Canada,Toronto,Returning,Social,Y
+C01772,2026-04-05,Australia,Sydney,Loyal,Organic Search,N
+C01773,2026-05-09,United Kingdom,Bristol,Returning,Referral,N
+C01774,2026-06-21,Canada,Vancouver,New,Social,N
+C01775,2026-05-10,United Kingdom,Bristol,Loyal,Referral,N
+C01776,2026-07-06,India,Hyderabad,Loyal,Organic Search,Y
+C01777,2026-07-18,Canada,Toronto,Returning,Organic Search,Y
+C01778,2026-03-03,Australia,Melbourne,New,Organic Search,Y
+C01779,2026-02-25,Canada,Vancouver,Loyal,Direct,N
+C01780,2026-07-04,Australia,Brisbane,New,Social,N
+C01781,2026-06-16,Australia,Melbourne,New,Organic Search,N
+C01782,2026-07-28,Australia,Melbourne,Returning,Social,N
+C01783,2026-08-30,India,Mumbai,Returning,Paid Search,N
+C01784,2026-04-23,Australia,Sydney,New,Social,Y
+C01785,2026-08-27,United Kingdom,London,New,Referral,Y
+C01786,2026-04-17,India,Delhi,Returning,Direct,Y
+C01787,2026-06-06,India,Bengaluru,Loyal,Referral,Y
+C01788,2026-06-02,India,Mumbai,Returning,Organic Search,N
+C01789,2026-08-23,United States,Austin,New,Direct,N
+C01790,2026-06-17,Canada,Toronto,Loyal,Social,N
+C01791,2026-04-06,United States,Austin,Loyal,Paid Search,Y
+C01792,2026-07-24,United Kingdom,Bristol,New,Social,Y
+C01793,2026-05-07,United Kingdom,Bristol,Returning,Paid Search,N
+C01794,2026-07-16,Canada,Calgary,Returning,Social,N
+C01795,2026-05-30,Canada,Vancouver,Returning,Email,N
+C01796,2026-03-12,India,Pune,New,Paid Search,N
+C01797,2026-04-07,United States,Austin,New,Referral,N
+C01798,2026-05-01,India,Pune,Returning,Email,N
+C01799,2026-07-14,India,Bengaluru,Loyal,Direct,Y
+C01800,2026-03-08,United Kingdom,Manchester,Returning,Direct,N
+C01801,2026-08-17,India,Hyderabad,Returning,Direct,Y
+C01802,2026-03-31,United States,Seattle,New,Direct,Y
+C01803,2026-03-13,United Kingdom,Bristol,At Risk,Organic Search,N
+C01804,2026-02-18,Australia,Sydney,New,Paid Search,Y
+C01805,2026-07-23,Australia,Sydney,New,Organic Search,N
+C01806,2026-09-15,Canada,Toronto,New,Email,Y
+C01807,2026-03-31,United States,Seattle,Loyal,Referral,Y
+C01808,2026-08-04,Canada,Toronto,New,Direct,Y
+C01809,2026-05-10,United States,Chicago,Returning,Social,N
+C01810,2026-04-04,India,Bengaluru,Returning,Email,N
+C01811,2026-05-01,India,Pune,New,Social,N
+C01812,2026-04-03,India,Delhi,Returning,Organic Search,N
+C01813,2026-05-11,India,Pune,Loyal,Email,N
+C01814,2026-07-14,India,Hyderabad,Loyal,Referral,Y
+C01815,2026-03-07,United Kingdom,Manchester,Returning,Paid Search,Y
+C01816,2026-04-02,United Kingdom,Bristol,New,Direct,Y
+C01817,2026-03-05,United Kingdom,Manchester,New,Direct,N
+C01818,2026-05-11,Canada,Calgary,New,Direct,N
+C01819,2026-02-24,United States,Austin,Returning,Email,Y
+C01820,2026-09-17,India,Mumbai,New,Direct,Y
+C01821,2026-03-11,Canada,Vancouver,Loyal,Direct,Y
+C01822,2026-08-03,India,Pune,Loyal,Email,Y
+C01823,2026-03-14,India,Delhi,New,Direct,Y
+C01824,2026-06-05,Canada,Calgary,Loyal,Paid Search,N
+C01825,2026-03-04,India,Pune,New,Direct,Y
+C01826,2026-06-29,United States,Seattle,Returning,Paid Search,Y
+C01827,2026-06-03,United States,Chicago,New,Organic Search,Y
+C01828,2026-09-13,United States,Chicago,Loyal,Social,N
+C01829,2026-05-09,Australia,Sydney,New,Direct,N
+C01830,2026-07-15,United States,Seattle,Returning,Social,Y
+C01831,2026-05-08,India,Pune,Loyal,Referral,Y
+C01832,2026-04-10,United States,New York,New,Paid Search,Y
+C01833,2026-04-06,Australia,Sydney,New,Social,N
+C01834,2026-02-24,Canada,Toronto,Loyal,Paid Search,N
+C01835,2026-04-23,India,Mumbai,Loyal,Referral,N
+C01836,2026-02-27,Canada,Calgary,Returning,Organic Search,N
+C01837,2026-02-16,United Kingdom,London,New,Social,Y
+C01838,2026-07-25,United Kingdom,London,Returning,Direct,N
+C01839,2026-07-03,India,Delhi,Loyal,Referral,Y
+C01840,2026-09-12,United Kingdom,Manchester,Returning,Referral,Y
+C01841,2026-05-31,Australia,Sydney,New,Organic Search,Y
+C01842,2026-04-28,India,Mumbai,Returning,Email,N
+C01843,2026-06-05,United Kingdom,London,New,Paid Search,N
+C01844,2026-04-12,India,Delhi,Returning,Email,Y
+C01845,2026-03-02,Canada,Calgary,New,Email,Y
+C01846,2026-05-21,Australia,Sydney,New,Organic Search,Y
+C01847,2026-08-15,United States,New York,New,Direct,Y
+C01848,2026-07-21,India,Delhi,New,Paid Search,N
+C01849,2026-05-23,United States,Austin,New,Direct,Y
+C01850,2026-08-06,United Kingdom,Manchester,Returning,Organic Search,Y
+C01851,2026-07-28,India,Hyderabad,New,Direct,N
+C01852,2026-05-25,United States,Austin,At Risk,Referral,N
+C01853,2026-05-16,United States,Austin,New,Referral,Y
+C01854,2026-07-01,India,Pune,Loyal,Referral,N
+C01855,2026-07-25,United Kingdom,London,Loyal,Referral,Y
+C01856,2026-03-26,United Kingdom,London,Returning,Paid Search,Y
+C01857,2026-03-04,United States,Seattle,At Risk,Organic Search,N
+C01858,2026-06-10,India,Hyderabad,Returning,Organic Search,Y
+C01859,2026-03-22,United Kingdom,Manchester,New,Email,N
+C01860,2026-08-04,Canada,Toronto,Returning,Direct,N
+C01861,2026-08-30,Australia,Melbourne,New,Social,Y
+C01862,2026-07-05,Australia,Melbourne,Loyal,Referral,Y
+C01863,2026-06-21,India,Hyderabad,Returning,Email,Y
+C01864,2026-04-06,India,Bengaluru,Loyal,Referral,N
+C01865,2026-04-23,Canada,Calgary,Loyal,Social,Y
+C01866,2026-05-21,Canada,Toronto,New,Organic Search,N
+C01867,2026-07-26,United Kingdom,Bristol,New,Referral,N
+C01868,2026-03-14,India,Bengaluru,New,Social,Y
+C01869,2026-06-20,India,Bengaluru,Loyal,Paid Search,N
+C01870,2026-08-25,Canada,Toronto,Returning,Social,N
+C01871,2026-07-03,Australia,Sydney,Returning,Organic Search,N
+C01872,2026-04-02,Australia,Sydney,Returning,Social,N
+C01873,2026-04-05,United Kingdom,London,Returning,Paid Search,Y
+C01874,2026-08-13,United States,New York,New,Referral,N
+C01875,2026-05-14,Australia,Brisbane,Loyal,Organic Search,N
+C01876,2026-09-09,United Kingdom,Manchester,Returning,Organic Search,Y
+C01877,2026-07-09,United Kingdom,Bristol,Returning,Referral,Y
+C01878,2026-06-30,United States,Austin,Loyal,Direct,N
+C01879,2026-03-17,India,Bengaluru,New,Social,N
+C01880,2026-06-15,United Kingdom,Bristol,Returning,Social,Y
+C01881,2026-05-01,United States,Austin,At Risk,Referral,Y
+C01882,2026-03-12,India,Bengaluru,Returning,Direct,N
+C01883,2026-06-19,United States,New York,Returning,Paid Search,N
+C01884,2026-09-10,India,Mumbai,Returning,Referral,N
+C01885,2026-08-24,Australia,Brisbane,Loyal,Referral,N
+C01886,2026-04-18,Australia,Melbourne,New,Referral,N
+C01887,2026-05-24,United States,Austin,New,Social,Y
+C01888,2026-05-26,United States,Seattle,Returning,Social,Y
+C01889,2026-03-17,United Kingdom,Bristol,New,Email,Y
+C01890,2026-08-28,Australia,Brisbane,New,Email,Y
+C01891,2026-07-16,Australia,Melbourne,New,Organic Search,Y
+C01892,2026-05-18,Canada,Toronto,Returning,Direct,Y
+C01893,2026-04-07,United States,Chicago,New,Social,N
+C01894,2026-08-24,India,Delhi,Loyal,Organic Search,Y
+C01895,2026-07-31,India,Hyderabad,At Risk,Email,N
+C01896,2026-06-04,United States,Chicago,Loyal,Organic Search,N
+C01897,2026-04-10,United Kingdom,Bristol,New,Direct,Y
+C01898,2026-07-02,India,Pune,At Risk,Direct,N
+C01899,2026-07-06,Canada,Vancouver,Loyal,Direct,Y
+C01900,2026-03-29,Australia,Sydney,Loyal,Referral,N
+C01901,2026-05-16,Canada,Vancouver,New,Direct,N
+C01902,2026-06-22,India,Pune,New,Referral,N
+C01903,2026-06-04,United Kingdom,Manchester,Loyal,Paid Search,Y
+C01904,2026-05-16,United States,Austin,Returning,Referral,N
+C01905,2026-05-23,India,Mumbai,New,Social,N
+C01906,2026-07-31,Canada,Toronto,New,Social,Y
+C01907,2026-03-01,United States,Chicago,New,Referral,Y
+C01908,2026-04-27,India,Delhi,At Risk,Referral,Y
+C01909,2026-05-21,India,Delhi,Returning,Social,N
+C01910,2026-03-29,Canada,Vancouver,New,Organic Search,Y
+C01911,2026-05-14,Canada,Vancouver,New,Paid Search,N
+C01912,2026-06-23,India,Delhi,Loyal,Paid Search,Y
+C01913,2026-07-24,United Kingdom,Manchester,New,Direct,Y
+C01914,2026-08-19,United Kingdom,London,At Risk,Referral,N
+C01915,2026-04-23,United States,New York,At Risk,Direct,Y
+C01916,2026-08-03,United States,Seattle,Loyal,Paid Search,Y
+C01917,2026-04-12,United Kingdom,Manchester,Loyal,Direct,N
+C01918,2026-07-11,United Kingdom,Bristol,Loyal,Referral,Y
+C01919,2026-04-16,India,Pune,Returning,Paid Search,Y
+C01920,2026-05-30,India,Bengaluru,Returning,Direct,Y
+C01921,2026-05-03,United Kingdom,Bristol,At Risk,Social,Y
+C01922,2026-03-14,United Kingdom,Manchester,Loyal,Email,N
+C01923,2026-04-18,Australia,Sydney,New,Social,N
+C01924,2026-05-25,Canada,Calgary,Returning,Paid Search,N
+C01925,2026-02-20,United Kingdom,Manchester,Returning,Direct,Y
+C01926,2026-05-06,Canada,Vancouver,Returning,Organic Search,N
+C01927,2026-04-07,United Kingdom,Manchester,New,Social,N
+C01928,2026-05-13,United Kingdom,,Returning,Social,Y
+C01929,2026-05-15,United Kingdom,London,New,Organic Search,N
+C01930,2026-05-03,Canada,Calgary,Loyal,Referral,Y
+C01931,2026-04-05,India,Bengaluru,New,Referral,Y
+C01932,2026-05-01,India,Bengaluru,At Risk,Referral,Y
+C01933,2026-04-04,India,Bengaluru,Returning,Paid Search,N
+C01934,2026-07-09,United States,Chicago,At Risk,Social,N
+C01935,2026-04-28,United States,Chicago,At Risk,Organic Search,Y
+C01936,2026-08-07,Australia,Melbourne,Loyal,Organic Search,Y
+C01937,2026-05-17,United Kingdom,London,Returning,Direct,Y
+C01938,2026-07-10,India,Delhi,Loyal,Email,N
+C01939,2026-07-18,United States,New York,New,Referral,N
+C01940,2026-09-14,India,Hyderabad,Returning,Paid Search,Y
+C01941,2026-05-05,Australia,Brisbane,Loyal,Social,N
+C01942,2026-08-15,Australia,Melbourne,Returning,Organic Search,N
+C01943,2026-04-27,Australia,Melbourne,Returning,Paid Search,N
+C01944,2026-06-21,Australia,Melbourne,At Risk,Referral,Y
+C01945,2026-08-28,Canada,Calgary,Returning,Social,Y
+C01946,2026-07-11,Canada,Toronto,Returning,Paid Search,N
+C01947,2026-05-07,United Kingdom,London,Returning,Social,Y
+C01948,2026-08-12,India,Mumbai,New,Email,Y
+C01949,2026-07-21,India,Hyderabad,Loyal,Referral,Y
+C01950,2026-04-13,India,Pune,New,Social,Y
+C01951,2026-06-24,India,Hyderabad,Returning,Organic Search,N
+C01952,2026-04-30,United States,Seattle,Returning,Social,Y
+C01953,2026-05-20,United Kingdom,Manchester,Returning,Direct,Y
+C01954,2026-05-29,India,Delhi,Returning,Organic Search,Y
+C01955,2026-07-11,Australia,Sydney,Returning,Organic Search,Y
+C01956,2026-04-07,Canada,Calgary,Loyal,Email,Y
+C01957,2026-05-11,Australia,Sydney,New,Email,N
+C01958,2026-04-10,United Kingdom,Bristol,Loyal,Referral,Y
+C01959,2026-06-21,United States,Chicago,Loyal,Direct,N
+C01960,2026-03-16,Australia,Melbourne,Returning,Social,Y
+C01961,2026-05-04,United States,Seattle,New,Email,Y
+C01962,2026-04-07,United States,New York,New,Paid Search,Y
+C01963,2026-04-15,India,Bengaluru,New,Referral,N
+C01964,2026-06-26,Australia,Melbourne,Returning,Paid Search,N
+C01965,2026-06-30,India,Bengaluru,Loyal,Email,N
+C01966,2026-04-13,United Kingdom,Manchester,At Risk,Referral,Y
+C01967,2026-03-12,India,Delhi,Loyal,Social,Y
+C01968,2026-03-16,United Kingdom,London,Loyal,Referral,N
+C01969,2026-04-25,United Kingdom,Bristol,Returning,Direct,N
+C01970,2026-06-19,United States,Chicago,At Risk,Organic Search,Y
+C01971,2026-07-20,United States,New York,New,Organic Search,Y
+C01972,2026-05-08,Australia,Brisbane,Returning,Social,Y
+C01973,2026-04-05,United States,Seattle,Loyal,Direct,N
+C01974,2026-07-06,United Kingdom,Bristol,New,Organic Search,Y
+C01975,2026-04-14,United States,Austin,Loyal,Email,N
+C01976,2026-03-27,Canada,Vancouver,Returning,Referral,N
+C01977,2026-06-18,United Kingdom,Manchester,Loyal,Direct,N
+C01978,2026-07-17,Canada,Calgary,Loyal,Paid Search,N
+C01979,2026-08-15,United Kingdom,Bristol,At Risk,Paid Search,N
+C01980,2026-04-01,United Kingdom,London,Returning,Social,Y
+C01981,2026-06-30,United Kingdom,,Returning,Organic Search,N
+C01982,2026-04-24,Canada,Calgary,Loyal,Social,Y
+C01983,2026-09-18,Australia,Brisbane,At Risk,Referral,N
+C01984,2026-07-18,Canada,Calgary,Loyal,Referral,Y
+C01985,2026-04-30,India,Hyderabad,Loyal,Paid Search,Y
+C01986,2026-08-06,United States,New York,New,Direct,Y
+C01987,2026-08-31,United Kingdom,Bristol,New,Paid Search,Y
+C01988,2026-04-05,United Kingdom,Manchester,Loyal,Paid Search,N
+C01989,2026-09-27,Australia,Brisbane,Returning,Direct,Y
+C01990,2026-08-04,India,Hyderabad,New,Social,Y
+C01991,2026-04-12,United States,Austin,Returning,Direct,N
+C01992,2026-04-08,United States,New York,New,Referral,N
+C01993,2026-06-04,India,Hyderabad,Loyal,Organic Search,N
+C01994,2026-08-30,India,Delhi,New,Organic Search,Y
+C01995,2026-04-12,United Kingdom,London,Loyal,Organic Search,Y
+C01996,2026-04-11,United Kingdom,Bristol,At Risk,Social,Y
+C01997,2026-05-17,United States,Seattle,Loyal,Paid Search,N
+C01998,2026-03-30,United States,Seattle,New,Paid Search,N
+C01999,2026-07-05,United States,Austin,Returning,Social,Y
+C02000,2026-06-09,Canada,Vancouver,New,Direct,N
+C02001,2026-09-21,United States,Seattle,New,Referral,Y
+C02002,2026-06-15,Canada,Calgary,Loyal,Paid Search,N
+C02003,2026-05-05,Australia,Brisbane,Loyal,Organic Search,Y
+C02004,2026-07-06,United Kingdom,Manchester,New,Organic Search,Y
+C02005,2026-07-26,Canada,Calgary,New,Referral,N
+C02006,2026-08-13,Australia,Brisbane,New,Social,Y
+C02007,2026-05-16,United States,Austin,New,Organic Search,Y
+C02008,2026-05-25,United Kingdom,Manchester,Returning,Organic Search,N
+C02009,2026-05-14,Australia,Brisbane,Returning,Direct,N
+C02010,2026-06-16,Canada,Calgary,Returning,Social,N
+C02011,2026-05-19,Canada,Toronto,Loyal,Referral,Y
+C02012,2026-06-02,Canada,Vancouver,At Risk,Email,Y
+C02013,2026-04-02,United States,Austin,Loyal,Direct,Y
+C02014,2026-07-05,Australia,Brisbane,New,Organic Search,Y
+C02015,2026-08-16,United Kingdom,Manchester,Returning,Paid Search,N
+C02016,2026-02-23,India,Mumbai,Loyal,Social,N
+C02017,2026-06-30,India,Mumbai,Returning,Direct,Y
+C02018,2026-03-14,United States,Austin,New,Paid Search,N
+C02019,2026-05-08,India,Pune,Returning,Email,N
+C02020,2026-02-17,Canada,Toronto,Returning,Social,Y
+C02021,2026-07-06,Canada,Vancouver,Loyal,Direct,N
+C02022,2026-05-27,Australia,Sydney,New,Direct,Y
+C02023,2026-03-10,United States,Chicago,Returning,Social,Y
+C02024,2026-04-18,Australia,Melbourne,At Risk,Direct,Y
+C02025,2026-04-08,United States,New York,New,Email,Y
+C02026,2026-06-05,United Kingdom,London,Returning,Social,N
+C02027,2026-04-03,Canada,Vancouver,New,Email,Y
+C02028,2026-06-04,United States,New York,Returning,Organic Search,N
+C02029,2026-04-11,India,Pune,Loyal,Organic Search,Y
+C02030,2026-08-05,United Kingdom,Bristol,Returning,Email,Y
+C02031,2026-03-29,Canada,Vancouver,Returning,Organic Search,N
+C02032,2026-07-13,Canada,Calgary,New,Email,N
+C02033,2026-07-01,Canada,Calgary,At Risk,Organic Search,Y
+C02034,2026-05-05,Canada,Vancouver,Loyal,Organic Search,Y
+C02035,2026-07-06,India,Hyderabad,New,Referral,N
+C02036,2026-08-18,Canada,Vancouver,New,Email,N
+C02037,2026-09-14,United Kingdom,Bristol,Returning,Social,N
+C02038,2026-02-28,United Kingdom,London,Returning,Paid Search,N
+C02039,2026-04-18,United Kingdom,Manchester,New,Direct,Y
+C02040,2026-07-26,Australia,Brisbane,New,Direct,N
+C02041,2026-06-23,United States,New York,New,Paid Search,N
+C02042,2026-06-14,Canada,Vancouver,Returning,Paid Search,N
+C02043,2026-08-02,India,Bengaluru,New,Referral,Y
+C02044,2026-05-08,Canada,Toronto,New,Direct,N
+C02045,2026-04-22,Canada,Toronto,At Risk,Social,Y
+C02046,2026-08-22,Canada,Toronto,Returning,Social,Y
+C02047,2026-06-03,India,Pune,New,Email,N
+C02048,2026-06-24,United States,New York,Returning,Paid Search,N
+C02049,2026-08-26,United Kingdom,London,New,Email,Y
+C02050,2026-06-23,United Kingdom,Bristol,Loyal,Direct,N
+C02051,2026-06-20,India,Delhi,Loyal,Paid Search,Y
+C02052,2026-07-05,Australia,Brisbane,Returning,Email,N
+C02053,2026-06-12,Australia,Melbourne,Returning,Referral,Y
+C02054,2026-05-26,United Kingdom,Manchester,Loyal,Paid Search,N
+C02055,2026-07-13,Canada,Calgary,New,Email,N
+C02056,2026-09-04,Canada,Calgary,At Risk,Direct,N
+C02057,2026-05-10,Australia,Sydney,Loyal,Referral,N
+C02058,2026-07-06,United Kingdom,Manchester,Returning,Email,Y
+C02059,2026-04-01,United States,Chicago,Returning,Referral,N
+C02060,2026-09-13,Canada,Vancouver,Returning,Email,Y
+C02061,2026-03-25,Canada,Vancouver,Returning,Organic Search,Y
+C02062,2026-06-20,Canada,Toronto,Returning,Paid Search,Y
+C02063,2026-04-09,Canada,Vancouver,Loyal,Email,N
+C02064,2026-06-10,United Kingdom,London,Returning,Direct,N
+C02065,2026-04-20,Australia,Melbourne,New,Email,N
+C02066,2026-07-11,Canada,Vancouver,New,Paid Search,N
+C02067,2026-09-04,United Kingdom,Manchester,Loyal,Direct,Y
+C02068,2026-06-01,India,Pune,At Risk,Email,Y
+C02069,2026-03-10,India,Mumbai,Returning,Referral,Y
+C02070,2026-04-23,Australia,Melbourne,At Risk,Social,Y
+C02071,2026-04-18,United States,Seattle,Returning,Social,Y
+C02072,2026-03-11,Australia,Brisbane,Returning,Paid Search,Y
+C02073,2026-06-14,Canada,Toronto,New,Direct,Y
+C02074,2026-07-17,United Kingdom,London,Loyal,Paid Search,N
+C02075,2026-07-13,Canada,Calgary,Returning,Paid Search,Y
+C02076,2026-05-06,Canada,Toronto,Loyal,Social,Y
+C02077,2026-05-21,United States,New York,New,Organic Search,N
+C02078,2026-05-28,Australia,Melbourne,New,Email,N
+C02079,2026-08-16,Australia,Brisbane,Returning,Referral,Y
+C02080,2026-05-22,Canada,Calgary,New,Email,Y
+C02081,2026-06-05,United Kingdom,Bristol,Returning,Email,N
+C02082,2026-07-15,India,Bengaluru,Loyal,Referral,Y
+C02083,2026-05-26,United States,Austin,New,Paid Search,N
+C02084,2026-06-01,United States,Austin,Returning,Organic Search,N
+C02085,2026-07-18,Canada,Vancouver,New,Direct,N
+C02086,2026-05-22,United Kingdom,Manchester,Returning,Referral,Y
+C02087,2026-07-28,United States,Austin,New,Social,N
+C02088,2026-07-14,United Kingdom,Bristol,New,Direct,N
+C02089,2026-05-24,Canada,Vancouver,New,Direct,Y
+C02090,2026-03-17,United States,Seattle,New,Paid Search,Y
+C02091,2026-03-24,United States,Chicago,Returning,Social,N
+C02092,2026-04-16,Australia,Melbourne,Returning,Paid Search,N
+C02093,2026-04-27,United States,Austin,Returning,Email,N
+C02094,2026-04-19,United States,Chicago,Returning,Email,Y
+C02095,2026-05-20,India,Bengaluru,New,Paid Search,N
+C02096,2026-08-12,Australia,Sydney,Returning,Email,Y
+C02097,2026-07-21,Australia,Sydney,Returning,Organic Search,N
+C02098,2026-06-10,India,Delhi,New,Referral,Y
+C02099,2026-05-15,India,Hyderabad,New,Social,Y
+C02100,2026-07-18,United States,Seattle,New,Referral,N
+C02101,2026-05-27,Australia,Brisbane,New,Organic Search,Y
+C02102,2026-05-19,Australia,Sydney,New,Referral,N
+C02103,2026-08-10,Canada,Toronto,New,Direct,Y
+C02104,2026-04-08,United States,Seattle,New,Paid Search,Y
+C02105,2026-03-17,Australia,Brisbane,Returning,Referral,Y
+C02106,2026-06-07,Australia,Sydney,Loyal,Email,Y
+C02107,2026-03-31,Australia,Melbourne,At Risk,Social,N
+C02108,2026-06-24,Australia,Brisbane,New,Referral,N
+C02109,2026-07-20,Australia,Brisbane,New,Referral,Y
+C02110,2026-07-05,United Kingdom,Bristol,Returning,Direct,N
+C02111,2026-07-17,India,Delhi,New,Referral,N
+C02112,2026-07-02,Canada,Toronto,Loyal,Direct,N
+C02113,2026-05-01,India,Hyderabad,Loyal,Paid Search,Y
+C02114,2026-06-27,United States,Austin,New,Referral,N
+C02115,2026-02-26,India,Hyderabad,New,Direct,Y
+C02116,2026-07-04,United Kingdom,Manchester,Loyal,Paid Search,Y
+C02117,2026-04-21,United Kingdom,Bristol,Returning,Email,N
+C02118,2026-06-25,United States,Austin,Returning,Social,N
+C02119,2026-06-10,United Kingdom,Manchester,Returning,Email,N
+C02120,2026-04-23,India,Pune,Returning,Paid Search,N
+C02121,2026-09-18,United Kingdom,Bristol,New,Direct,N
+C02122,2026-04-29,United Kingdom,Manchester,Returning,Email,N
+C02123,2026-04-27,Australia,Sydney,Loyal,Referral,N
+C02124,2026-07-09,United Kingdom,London,New,Direct,N
+C02125,2026-06-02,Australia,Sydney,Loyal,Email,N
+C02126,2026-06-29,United States,Seattle,New,Organic Search,N
+C02127,2026-04-09,United Kingdom,Manchester,At Risk,Organic Search,N
+C02128,2026-08-03,United States,Seattle,Loyal,Paid Search,N
+C02129,2026-07-16,Australia,Sydney,Returning,Social,N
+C02130,2026-05-10,Australia,Melbourne,Returning,Paid Search,Y
+C02131,2026-06-27,United Kingdom,Manchester,Loyal,Paid Search,Y
+C02132,2026-04-18,United Kingdom,Manchester,Returning,Paid Search,N
+C02133,2026-04-16,United Kingdom,London,New,Direct,N
+C02134,2026-06-12,Canada,Vancouver,Loyal,Referral,Y
+C02135,2026-04-29,Australia,Brisbane,Returning,Organic Search,N
+C02136,2026-04-16,Australia,Brisbane,New,Organic Search,Y
+C02137,2026-08-13,Australia,Sydney,Returning,Referral,Y
+C02138,2026-05-13,Australia,Brisbane,At Risk,Organic Search,N
+C02139,2026-05-02,United Kingdom,Bristol,New,Social,Y
+C02140,2026-03-25,United States,Austin,Returning,Direct,N
+C02141,2026-05-27,India,Bengaluru,New,Email,Y
+C02142,2026-06-25,India,Pune,New,Paid Search,N
+C02143,2026-05-17,Australia,Brisbane,New,Referral,N
+C02144,2026-07-05,Australia,Sydney,New,Paid Search,Y
+C02145,2026-04-25,India,Delhi,Loyal,Referral,N
+C02146,2026-07-04,India,Bengaluru,At Risk,Direct,Y
+C02147,2026-05-26,United States,Seattle,At Risk,Paid Search,Y
+C02148,2026-08-03,United Kingdom,Manchester,New,Email,Y
+C02149,2026-07-03,Canada,Toronto,Returning,Email,Y
+C02150,2026-06-02,United States,New York,New,Paid Search,Y
+C02151,2026-06-16,United States,Seattle,Loyal,Social,N
+C02152,2026-06-27,Canada,Toronto,Loyal,Social,N
+C02153,2026-03-31,United Kingdom,Manchester,New,Email,N
+C02154,2026-07-29,Canada,Vancouver,At Risk,Organic Search,N
+C02155,2026-07-18,United Kingdom,London,Returning,Email,N
+C02156,2026-07-08,India,Bengaluru,New,Paid Search,Y
+C02157,2026-08-07,Australia,Brisbane,New,Direct,N
+C02158,2026-08-24,India,Mumbai,Loyal,Direct,N
+C02159,2026-03-22,United Kingdom,London,Returning,Paid Search,Y
+C02160,2026-06-25,United States,New York,Loyal,Organic Search,N
+C02161,2026-06-09,United States,Austin,At Risk,Social,N
+C02162,2026-08-16,India,Delhi,Loyal,Organic Search,Y
+C02163,2026-08-24,Canada,Vancouver,Loyal,Direct,Y
+C02164,2026-07-07,United States,Austin,Loyal,Organic Search,N
+C02165,2026-08-03,India,Pune,At Risk,Referral,N
+C02166,2026-04-20,United States,New York,New,Email,N
+C02167,2026-06-22,United States,Austin,At Risk,Direct,Y
+C02168,2026-05-14,Canada,Calgary,New,Paid Search,Y
+C02169,2026-07-17,United States,New York,Loyal,Direct,N
+C02170,2026-03-03,United Kingdom,London,New,Paid Search,N
+C02171,2026-05-17,United Kingdom,Bristol,Returning,Referral,N
+C02172,2026-06-06,United States,Austin,Returning,Referral,Y
+C02173,2026-02-24,Canada,Toronto,At Risk,Organic Search,Y
+C02174,2026-06-12,India,Pune,New,Referral,N
+C02175,2026-05-17,Canada,Calgary,Loyal,Referral,N
+C02176,2026-07-07,Canada,Calgary,New,Email,Y
+C02177,2026-04-05,United Kingdom,Bristol,At Risk,Social,Y
+C02178,2026-06-26,United Kingdom,Manchester,Loyal,Email,Y
+C02179,2026-04-07,United Kingdom,London,Loyal,Email,Y
+C02180,2026-07-06,Australia,Sydney,At Risk,Organic Search,Y
+C02181,2026-05-26,Australia,Melbourne,New,Email,Y
+C02182,2026-07-11,Australia,Brisbane,New,Direct,Y
+C02183,2026-07-28,India,Bengaluru,Returning,Paid Search,Y
+C02184,2026-06-04,Australia,Sydney,Returning,Referral,Y
+C02185,2026-06-28,United Kingdom,Bristol,New,Direct,Y
+C02186,2026-05-15,United States,Seattle,Loyal,Social,Y
+C02187,2026-06-11,Canada,Calgary,At Risk,Email,N
+C02188,2026-08-13,United Kingdom,Manchester,New,Social,N
+C02189,2026-04-05,United States,New York,New,Email,Y
+C02190,2026-05-22,United States,Chicago,Loyal,Paid Search,N
+C02191,2026-03-15,United States,Seattle,Returning,Paid Search,N
+C02192,2026-08-04,India,Bengaluru,New,Email,Y
+C02193,2026-02-19,Australia,Sydney,Returning,Direct,N
+C02194,2026-09-08,United Kingdom,London,Returning,Referral,Y
+C02195,2026-04-17,Australia,Brisbane,Returning,Organic Search,N
+C02196,2026-09-08,United States,Austin,Loyal,Organic Search,N
+C02197,2026-08-13,United Kingdom,Manchester,Returning,Paid Search,N
+C02198,2026-07-08,United Kingdom,London,New,Direct,N
+C02199,2026-03-15,United States,Seattle,Returning,Direct,Y
+C02200,2026-07-19,United Kingdom,Manchester,Returning,Social,N
+C02201,2026-05-07,United Kingdom,London,New,Email,Y
+C02202,2026-04-11,Australia,Brisbane,Returning,Social,Y
+C02203,2026-04-18,Canada,Calgary,Returning,Referral,N
+C02204,2026-03-06,India,Hyderabad,Loyal,Direct,Y
+C02205,2026-07-15,Australia,Sydney,Returning,Direct,N
+C02206,2026-08-13,Canada,Calgary,Loyal,Email,Y
+C02207,2026-04-10,Canada,Vancouver,Returning,Organic Search,Y
+C02208,2026-06-17,Australia,Brisbane,At Risk,Organic Search,N
+C02209,2026-09-09,Canada,Vancouver,Loyal,Social,N
+C02210,2026-05-18,United Kingdom,Manchester,Returning,Organic Search,N
+C02211,2026-03-16,Canada,Vancouver,Loyal,Paid Search,Y
+C02212,2026-04-24,Australia,Melbourne,Loyal,Social,Y
+C02213,2026-07-31,Canada,Vancouver,Returning,Direct,Y
+C02214,2026-05-21,United Kingdom,Bristol,New,Email,N
+C02215,2026-05-06,Australia,Sydney,Loyal,Paid Search,N
+C02216,2026-05-25,Canada,Vancouver,Loyal,Paid Search,Y
+C02217,2026-08-04,United Kingdom,London,Returning,Referral,N
+C02218,2026-03-28,Australia,Melbourne,Returning,Organic Search,Y
+C02219,2026-08-23,India,Hyderabad,At Risk,Direct,N
+C02220,2026-08-09,United Kingdom,Manchester,Returning,Email,Y
+C02221,2026-08-29,Canada,Calgary,Loyal,Social,Y
+C02222,2026-07-03,United Kingdom,London,New,Paid Search,N
+C02223,2026-04-11,India,Mumbai,New,Paid Search,N
+C02224,2026-06-25,United States,Austin,New,Organic Search,N
+C02225,2026-05-22,Canada,Calgary,At Risk,Paid Search,N
+C02226,2026-04-28,United States,Seattle,Returning,Email,N
+C02227,2026-06-22,United Kingdom,Manchester,Returning,Paid Search,N
+C02228,2026-05-06,Australia,Brisbane,New,Direct,Y
+C02229,2026-03-14,Australia,Sydney,At Risk,Referral,N
+C02230,2026-05-19,Australia,Brisbane,New,Social,Y
+C02231,2026-06-30,Canada,Toronto,Returning,Email,N
+C02232,2026-04-16,Australia,Sydney,New,Email,Y
+C02233,2026-05-26,United Kingdom,Bristol,New,Direct,N
+C02234,2026-06-28,India,Bengaluru,At Risk,Direct,Y
+C02235,2026-04-25,Australia,Brisbane,Loyal,Paid Search,N
+C02236,2026-03-13,United States,Austin,Returning,Direct,N
+C02237,2026-07-09,United Kingdom,Bristol,At Risk,Paid Search,N
+C02238,2026-03-01,India,Bengaluru,Returning,Organic Search,Y
+C02239,2026-06-03,Australia,Sydney,Loyal,Paid Search,Y
+C02240,2026-09-04,United States,Seattle,Loyal,Social,Y
+C02241,2026-05-26,India,Pune,Loyal,Email,N
+C02242,2026-05-17,United States,New York,New,Paid Search,N
+C02243,2026-04-01,United Kingdom,London,New,Paid Search,Y
+C02244,2026-03-29,United Kingdom,London,New,Organic Search,N
+C02245,2026-03-02,India,Hyderabad,New,Social,Y
+C02246,2026-09-03,United States,New York,New,Email,N
+C02247,2026-04-14,India,Bengaluru,Loyal,Paid Search,Y
+C02248,2026-04-07,Australia,Brisbane,New,Social,Y
+C02249,2026-03-24,United States,Chicago,Loyal,Direct,Y
+C02250,2026-08-15,Australia,Melbourne,New,Organic Search,Y
+C02251,2026-05-25,United Kingdom,Manchester,Returning,Referral,Y
+C02252,2026-04-08,India,Hyderabad,New,Referral,N
+C02253,2026-03-21,Canada,Vancouver,Loyal,Organic Search,Y
+C02254,2026-06-22,United Kingdom,London,New,Email,Y
+C02255,2026-08-13,Canada,Toronto,At Risk,Email,Y
+C02256,2026-08-20,Australia,Brisbane,New,Referral,N
+C02257,2026-03-02,Australia,Melbourne,New,Email,Y
+C02258,2026-03-21,United Kingdom,Manchester,Returning,Organic Search,N
+C02259,2026-04-04,India,Bengaluru,Returning,Referral,N
+C02260,2026-05-16,United Kingdom,Manchester,Loyal,Direct,Y
+C02261,2026-08-03,Australia,Sydney,New,Referral,Y
+C02262,2026-08-23,United Kingdom,London,New,Social,N
+C02263,2026-06-06,United States,New York,Loyal,Direct,N
+C02264,2026-05-13,Australia,Sydney,Returning,Direct,Y
+C02265,2026-08-05,United States,Chicago,Loyal,Direct,N
+C02266,2026-07-11,India,Mumbai,Returning,Referral,Y
+C02267,2026-05-09,India,Delhi,At Risk,Organic Search,Y
+C02268,2026-07-11,United Kingdom,London,Returning,Email,Y
+C02269,2026-08-03,United States,Chicago,Returning,Social,N
+C02270,2026-03-13,Australia,Sydney,At Risk,Direct,N
+C02271,2026-02-06,Canada,Vancouver,Loyal,Email,N
+C02272,2026-04-15,United States,New York,Returning,Email,Y
+C02273,2026-08-11,Canada,Calgary,New,Direct,Y
+C02274,2026-08-18,India,Pune,New,Referral,N
+C02275,2026-07-10,United States,Seattle,New,Social,N
+C02276,2026-06-02,Australia,Sydney,Returning,Paid Search,Y
+C02277,2026-04-08,Australia,Sydney,Returning,Organic Search,N
+C02278,2026-07-12,Canada,Toronto,New,Email,Y
+C02279,2026-03-28,India,Delhi,New,Referral,N
+C02280,2026-07-24,Canada,Calgary,Loyal,Direct,Y
+C02281,2026-05-14,United States,New York,At Risk,Social,N
+C02282,2026-06-02,United States,Chicago,At Risk,Organic Search,N
+C02283,2026-08-22,Canada,Vancouver,Returning,Paid Search,Y
+C02284,2026-06-19,United States,Seattle,New,Email,Y
+C02285,2026-04-02,United States,Austin,Returning,Paid Search,N
+C02286,2026-08-16,India,Delhi,Returning,Referral,Y
+C02287,2026-08-04,Australia,Melbourne,Returning,Paid Search,Y
+C02288,2026-08-24,United States,New York,Returning,Email,Y
+C02289,2026-02-24,United States,New York,New,Email,N
+C02290,2026-03-18,United Kingdom,Manchester,Returning,Direct,Y
+C02291,2026-03-14,Canada,Vancouver,At Risk,Direct,N
+C02292,2026-07-22,Canada,Calgary,Loyal,Paid Search,Y
+C02293,2026-04-06,United Kingdom,London,At Risk,Email,N
+C02294,2026-06-15,United States,New York,Returning,Social,Y
+C02295,2026-05-02,India,Hyderabad,Loyal,Email,Y
+C02296,2026-08-08,United Kingdom,Manchester,Returning,Email,N
+C02297,2026-06-09,Canada,Vancouver,Returning,Social,N
+C02298,2026-08-13,Canada,Calgary,New,Paid Search,Y
+C02299,2026-08-12,Australia,Brisbane,Returning,Referral,N
+C02300,2026-05-08,Canada,Vancouver,Returning,Social,Y
+C02301,2026-07-26,Canada,Toronto,Returning,Email,N
+C02302,2026-04-21,Australia,Sydney,New,Referral,Y
+C02303,2026-04-18,Canada,Toronto,At Risk,Organic Search,Y
+C02304,2026-04-20,Canada,Toronto,New,Direct,Y
+C02305,2026-04-26,Canada,Toronto,New,Social,N
+C02306,2026-08-16,United States,Seattle,New,Referral,Y
+C02307,2026-07-21,India,Delhi,New,Organic Search,N
+C02308,2026-07-11,India,Bengaluru,New,Paid Search,Y
+C02309,2026-08-08,United Kingdom,Bristol,At Risk,Referral,N
+C02310,2026-06-21,Canada,Toronto,New,Organic Search,Y
+C02311,2026-07-17,United States,New York,Returning,Referral,N
+C02312,2026-04-15,United States,Seattle,Returning,Social,Y
+C02313,2026-04-14,India,Mumbai,At Risk,Organic Search,Y
+C02314,2026-05-26,United States,Seattle,Returning,Organic Search,N
+C02315,2026-04-10,Canada,Toronto,Returning,Organic Search,N
+C02316,2026-06-30,Australia,Melbourne,At Risk,Social,Y
+C02317,2026-08-06,United States,Austin,Returning,Paid Search,Y
+C02318,2026-03-12,United States,Austin,Loyal,Organic Search,N
+C02319,2026-03-29,Australia,Brisbane,Loyal,Email,Y
+C02320,2026-06-10,United Kingdom,Bristol,New,Referral,Y
+C02321,2026-07-08,Canada,Toronto,New,Paid Search,N
+C02322,2026-05-06,United Kingdom,Manchester,New,Direct,N
+C02323,2026-06-12,India,Delhi,New,Referral,Y
+C02324,2026-08-16,Australia,Melbourne,New,Email,N
+C02325,2026-09-05,Canada,Calgary,New,Email,N
+C02326,2026-05-16,United Kingdom,Manchester,Returning,Social,Y
+C02327,2026-07-01,United Kingdom,London,Returning,Social,Y
+C02328,2026-02-16,Canada,Calgary,At Risk,Referral,Y
+C02329,2026-08-20,India,Delhi,New,Paid Search,N
+C02330,2026-07-29,India,Mumbai,Loyal,Organic Search,Y
+C02331,2026-06-30,India,Hyderabad,New,Referral,N
+C02332,2026-02-18,United Kingdom,Bristol,New,Direct,Y
+C02333,2026-07-23,United States,New York,Loyal,Organic Search,Y
+C02334,2026-02-21,Canada,Toronto,New,Organic Search,N
+C02335,2026-03-27,United Kingdom,London,Returning,Paid Search,N
+C02336,2026-02-13,Australia,Melbourne,New,Direct,Y
+C02337,2026-07-17,Canada,Toronto,New,Paid Search,N
+C02338,2026-04-21,United States,Chicago,Returning,Direct,Y
+C02339,2026-08-08,United States,Austin,Loyal,Paid Search,Y
+C02340,2026-04-14,Canada,Calgary,New,Email,N
+C02341,2026-04-30,United States,Austin,Loyal,Referral,Y
+C02342,2026-07-08,United Kingdom,London,New,Organic Search,N
+C02343,2026-08-25,United Kingdom,Manchester,New,Direct,N
+C02344,2026-02-15,India,Bengaluru,Returning,Social,Y
+C02345,2026-07-11,Australia,Melbourne,Returning,Direct,N
+C02346,2026-04-15,United Kingdom,Manchester,New,Direct,Y
+C02347,2026-03-14,United States,New York,Returning,Email,N
+C02348,2026-07-08,Canada,Vancouver,Returning,Email,N
+C02349,2026-08-12,United States,Seattle,Returning,Organic Search,Y
+C02350,2026-06-20,United Kingdom,Bristol,New,Social,Y
+C02351,2026-04-11,Canada,Toronto,New,Paid Search,Y
+C02352,2026-08-22,India,Pune,New,Social,Y
+C02353,2026-04-21,India,Mumbai,New,Referral,N
+C02354,2026-07-15,United States,Seattle,Returning,Paid Search,N
+C02355,2026-05-09,India,Delhi,At Risk,Direct,N
+C02356,2026-05-28,Australia,Sydney,Returning,Email,Y
+C02357,2026-03-29,Canada,Vancouver,Returning,Social,N
+C02358,2026-05-23,Australia,Sydney,Returning,Referral,N
+C02359,2026-06-18,United Kingdom,Bristol,Loyal,Social,N
+C02360,2026-08-25,India,Bengaluru,Returning,Paid Search,N
+C02361,2026-06-22,United States,Seattle,Loyal,Referral,N
+C02362,2026-06-22,Australia,Sydney,At Risk,Social,Y
+C02363,2026-03-13,Australia,Sydney,Returning,Email,Y
+C02364,2026-05-19,United Kingdom,London,Returning,Paid Search,N
+C02365,2026-04-19,India,Pune,Returning,Direct,N
+C02366,2026-05-02,India,Mumbai,Loyal,Social,Y
+C02367,2026-08-16,United Kingdom,London,New,Organic Search,N
+C02368,2026-03-26,United Kingdom,Bristol,New,Social,N
+C02369,2026-06-20,Canada,Calgary,New,Direct,Y
+C02370,2026-03-07,Australia,Melbourne,Loyal,Direct,Y
+C02371,2026-04-12,Australia,Sydney,Loyal,Email,Y
+C02372,2026-06-09,United Kingdom,London,New,Organic Search,N
+C02373,2026-05-28,India,Mumbai,Returning,Email,Y
+C02374,2026-05-28,Australia,Melbourne,New,Social,N
+C02375,2026-07-27,United Kingdom,Bristol,Returning,Paid Search,Y
+C02376,2026-08-04,United Kingdom,London,Loyal,Referral,N
+C02377,2026-07-16,United Kingdom,Bristol,Returning,Organic Search,N
+C02378,2026-05-03,United Kingdom,Manchester,Returning,Organic Search,N
+C02379,2026-04-27,United Kingdom,Bristol,New,Referral,Y
+C02380,2026-03-31,United States,New York,New,Organic Search,Y
+C02381,2026-08-26,United States,Austin,At Risk,Social,Y
+C02382,2026-06-23,Canada,Toronto,Returning,Referral,Y
+C02383,2026-05-28,Australia,Melbourne,Returning,Referral,Y
+C02384,2026-04-19,United States,New York,Loyal,Social,Y
+C02385,2026-08-28,United States,New York,New,Direct,Y
+C02386,2026-07-24,Canada,Toronto,Loyal,Paid Search,Y
+C02387,2026-06-01,Australia,Melbourne,Loyal,Direct,N
+C02388,2026-05-11,India,Bengaluru,Returning,Direct,N
+C02389,2026-07-17,Australia,Sydney,Returning,Paid Search,Y
+C02390,2026-03-29,Australia,Melbourne,Loyal,Referral,N
+C02391,2026-07-15,Australia,Sydney,New,Organic Search,N
+C02392,2026-04-04,United Kingdom,Bristol,Returning,Paid Search,N
+C02393,2026-07-02,United Kingdom,Manchester,Returning,Direct,N
+C02394,2026-08-22,Canada,Calgary,At Risk,Direct,N
+C02395,2026-06-22,United States,New York,Returning,Organic Search,Y
+C02396,2026-04-25,United States,Austin,Loyal,Direct,Y
+C02397,2026-06-08,Australia,Melbourne,New,Direct,Y
+C02398,2026-06-11,Australia,Brisbane,New,Organic Search,Y
+C02399,2026-05-21,United States,Seattle,At Risk,Email,N
+C02400,2026-05-31,Canada,Toronto,At Risk,Email,N
+C02401,2026-08-21,United States,New York,Loyal,Organic Search,Y
+C02402,2026-07-21,India,Delhi,New,Email,Y
+C02403,2026-08-11,India,Mumbai,Returning,Email,N
+C02404,2026-06-17,India,Delhi,New,Organic Search,Y
+C02405,2026-07-12,United Kingdom,Manchester,At Risk,Paid Search,Y
+C02406,2026-04-13,India,Delhi,New,Direct,Y
+C02407,2026-04-19,Canada,Calgary,New,Organic Search,N
+C02408,2026-02-14,India,Mumbai,New,Direct,N
+C02409,2026-08-23,India,Pune,Loyal,Email,Y
+C02410,2026-05-03,India,Delhi,Returning,Social,N
+C02411,2026-08-01,Canada,Vancouver,New,Social,Y
+C02412,2026-03-06,United States,New York,At Risk,Organic Search,N
+C02413,2026-03-06,Australia,Sydney,Loyal,Direct,Y
+C02414,2026-05-05,United Kingdom,Bristol,Returning,Email,Y
+C02415,2026-04-12,United Kingdom,Manchester,Loyal,Referral,Y
+C02416,2026-03-13,United Kingdom,Manchester,New,Email,N
+C02417,2026-06-23,Canada,Vancouver,New,Direct,N
+C02418,2026-05-12,Australia,Melbourne,New,Social,Y
+C02419,2026-06-12,United Kingdom,Manchester,Returning,Referral,Y
+C02420,2026-06-07,India,Mumbai,Returning,Referral,Y
+C02421,2026-08-18,Australia,Sydney,Loyal,Email,Y
+C02422,2026-08-05,Canada,Calgary,New,Organic Search,Y
+C02423,2026-04-25,United Kingdom,London,Loyal,Direct,N
+C02424,2026-07-23,Canada,Calgary,Loyal,Social,N
+C02425,2026-04-07,Australia,Melbourne,New,Social,N
+C02426,2026-07-15,India,Pune,New,Direct,Y
+C02427,2026-05-15,India,Delhi,Returning,Organic Search,N
+C02428,2026-05-09,United States,Chicago,Returning,Organic Search,Y
+C02429,2026-07-29,India,Bengaluru,New,Paid Search,Y
+C02430,2026-06-26,India,Delhi,Returning,Social,N
+C02431,2026-03-14,India,Bengaluru,New,Social,Y
+C02432,2026-05-23,United Kingdom,Bristol,At Risk,Direct,Y
+C02433,2026-08-24,Canada,Vancouver,Returning,Social,N
+C02434,2026-05-05,Canada,Toronto,Returning,Referral,N
+C02435,2026-08-19,Canada,Toronto,At Risk,Organic Search,N
+C02436,2026-03-20,United Kingdom,London,New,Direct,Y
+C02437,2026-06-12,Canada,Vancouver,New,Email,Y
+C02438,2026-06-18,United Kingdom,Bristol,Loyal,Paid Search,N
+C02439,2026-09-11,India,Mumbai,Returning,Direct,Y
+C02440,2026-04-14,Australia,Brisbane,New,Social,N
+C02441,2026-04-02,Australia,Sydney,New,Organic Search,N
+C02442,2026-04-26,United States,Chicago,New,Referral,N
+C02443,2026-08-16,Canada,Toronto,At Risk,Organic Search,Y
+C02444,2026-04-14,Canada,,Returning,Direct,Y
+C02445,2026-08-09,Canada,Toronto,New,Direct,N
+C02446,2026-05-31,United States,New York,New,Paid Search,Y
+C02447,2026-03-11,Australia,Melbourne,Returning,Direct,N
+C02448,2026-05-16,India,Bengaluru,Returning,Organic Search,N
+C02449,2026-08-10,Canada,Vancouver,Returning,Email,Y
+C02450,2026-07-26,India,Bengaluru,Returning,Referral,Y
+C02451,2026-07-03,United States,Chicago,New,Paid Search,Y
+C02452,2026-03-20,Canada,Vancouver,Returning,Email,Y
+C02453,2026-03-31,United States,New York,Returning,Paid Search,Y
+C02454,2026-05-25,United States,Seattle,New,Organic Search,Y
+C02455,2026-05-01,India,Bengaluru,Returning,Organic Search,N
+C02456,2026-07-09,United States,Chicago,Loyal,Paid Search,Y
+C02457,2026-05-01,Canada,Toronto,New,Email,Y
+C02458,2026-02-20,United States,Chicago,Loyal,Organic Search,N
+C02459,2026-08-19,Australia,Sydney,New,Email,N
+C02460,2026-06-21,United States,New York,Loyal,Organic Search,N
+C02461,2026-08-06,Canada,Calgary,Loyal,Social,N
+C02462,2026-04-21,Canada,Toronto,Loyal,Paid Search,N
+C02463,2026-05-19,Australia,Melbourne,Returning,Direct,Y
+C02464,2026-04-03,United States,Austin,Returning,Organic Search,N
+C02465,2026-08-20,Australia,Sydney,Returning,Direct,Y
+C02466,2026-05-16,India,Pune,New,Direct,N
+C02467,2026-04-24,United Kingdom,Manchester,At Risk,Email,N
+C02468,2026-03-15,Canada,Calgary,Returning,Direct,Y
+C02469,2026-05-12,Canada,Calgary,Returning,Social,Y
+C02470,2026-03-10,United Kingdom,Manchester,Loyal,Referral,Y
+C02471,2026-07-08,United Kingdom,London,Returning,Social,N
+C02472,2026-06-10,United States,Seattle,New,Referral,N
+C02473,2026-04-23,United States,Chicago,Loyal,Direct,N
+C02474,2026-03-22,United States,Austin,Loyal,Referral,N
+C02475,2026-05-12,United States,Chicago,New,Direct,N
+C02476,2026-07-18,United States,Austin,New,Direct,N
+C02477,2026-06-25,United Kingdom,Manchester,Loyal,Referral,N
+C02478,2026-05-15,Australia,Melbourne,Returning,Social,Y
+C02479,2026-04-08,Canada,Toronto,New,Social,N
+C02480,2026-04-20,Canada,Vancouver,Returning,Email,Y
+C02481,2026-08-15,United Kingdom,Bristol,At Risk,Referral,Y
+C02482,2026-05-06,Canada,Vancouver,New,Paid Search,Y
+C02483,2026-07-21,United Kingdom,London,New,Referral,N
+C02484,2026-09-05,United States,Seattle,New,Direct,Y
+C02485,2026-07-25,India,Hyderabad,Loyal,Social,N
+C02486,2026-06-17,United States,Austin,At Risk,Social,Y
+C02487,2026-08-31,United States,Austin,Loyal,Paid Search,N
+C02488,2026-04-24,United States,New York,At Risk,Organic Search,N
+C02489,2026-07-07,Canada,Toronto,Loyal,Paid Search,Y
+C02490,2026-03-08,Canada,Toronto,At Risk,Social,Y
+C02491,2026-07-13,India,Bengaluru,Returning,Referral,N
+C02492,2026-06-22,Canada,Toronto,Loyal,Email,N
+C02493,2026-08-10,Canada,Vancouver,Loyal,Email,Y
+C02494,2026-06-06,Australia,Brisbane,Returning,Referral,N
+C02495,2026-08-27,United Kingdom,Bristol,Returning,Email,Y
+C02496,2026-08-10,United Kingdom,London,Returning,Direct,N
+C02497,2026-05-03,United States,Chicago,New,Email,N
+C02498,2026-07-15,United States,Chicago,Returning,Email,Y
+C02499,2026-07-11,Australia,Brisbane,New,Direct,Y
+C02500,2026-03-30,Canada,Vancouver,Returning,Email,N

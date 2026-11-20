@@ -1,0 +1,16 @@
+campaign_id,campaign_name,channel,campaign_start_date,campaign_end_date,target_region
+CAM001,Social_Campaign_01,Social,2026-07-28,2026-11-10,North America
+CAM002,Affiliate_Campaign_02,Affiliate,2026-07-15,2026-11-06,Global
+CAM003,Email_Campaign_03,Email,2026-08-01,2026-11-10,Global
+CAM004,Display_Campaign_04,Display,2026-07-29,2026-11-12,North America
+CAM005,Social_Campaign_05,Social,2026-07-26,2026-11-15,India
+CAM006,Social_Campaign_06,Social,2026-07-17,2026-11-14,Global
+CAM007,Email_Campaign_07,Email,2026-07-12,2026-11-11,North America
+CAM008,PaidSearch_Campaign_08,Paid Search,2026-07-31,2026-11-14,North America
+CAM009,PaidSearch_Campaign_09,Paid Search,2026-07-14,2026-11-11,India
+CAM010,Email_Campaign_10,Email,2026-07-12,2026-11-10,Global
+CAM011,PaidSearch_Campaign_11,Paid Search,2026-07-22,2026-11-14,India
+CAM012,Social_Campaign_12,Social,2026-07-29,2026-11-03,North America
+CAM013,Display_Campaign_13,Display,2026-07-17,2026-11-10,India
+CAM014,Affiliate_Campaign_14,Affiliate,2026-07-31,2026-11-10,North America
+CAM015,Email_Campaign_15,Email,2026-07-15,2026-11-13,Europe

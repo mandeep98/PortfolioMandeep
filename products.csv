@@ -1,0 +1,121 @@
+product_id,product_name,category,unit_price,active_flag,inventory_qty
+P0001,Hair Serum,Beauty,29.65,Y,178
+P0002,Bedsheet Set,Home,96.72,Y,245
+P0003,Storage Organizer,Home,61.03,Y,433
+P0004,Power Bank,Electronics,96.23,Y,46
+P0005,Desk Lamp,Home,156.94,Y,128
+P0006,Webcam,Electronics,233.55,N,76
+P0007,Sneakers,Fashion,215.76,Y,445
+P0008,Storage Organizer,Home,107.09,Y,266
+P0009,Smart Watch,Electronics,218.98,Y,293
+P0010,Bedsheet Set,Home,140.6,N,458
+P0011,Storage Organizer,Home,12.16,Y,308
+P0012,Wireless Earbuds,Electronics,195.03,Y,418
+P0013,Coffee Maker,Home,38.04,N,283
+P0014,Sneakers,Fashion,44.96,Y,125
+P0015,Bluetooth Speaker,Electronics,215.01,Y,262
+P0016,Webcam,Electronics,130.09,Y,201
+P0017,Storage Organizer,Home,19.7,Y,433
+P0018,Storage Organizer,Home,216.53,Y,293
+P0019,Hoodie,Fashion,67.48,Y,363
+P0020,Smart Watch,Electronics,47.23,Y,34
+P0021,Moisturizer,Beauty,8.14,N,270
+P0022,Hair Serum,Beauty,141.18,N,455
+P0023,Body Lotion,Beauty,93.65,N,384
+P0024,Wallet,Fashion,234.72,Y,257
+P0025,Moisturizer,Beauty,202.77,Y,37
+P0026,T-Shirt,Fashion,35.96,N,195
+P0027,Sunscreen,Beauty,98.42,Y,249
+P0028,Desk Lamp,Home,60.17,Y,230
+P0029,Bedsheet Set,Home,103.92,Y,8
+P0030,Water Bottle,Home,69.21,N,238
+P0031,Sunscreen,Beauty,221.54,N,66
+P0032,Face Cleanser,Beauty,67.38,Y,459
+P0033,Bluetooth Speaker,Electronics,98.52,Y,238
+P0034,Hair Serum,Beauty,26.91,Y,181
+P0035,Face Cleanser,Beauty,234.02,N,34
+P0036,T-Shirt,Fashion,54.82,Y,5
+P0037,Smart Watch,Electronics,188.13,Y,30
+P0038,Webcam,Electronics,60.92,Y,12
+P0039,Hair Serum,Beauty,88.84,N,177
+P0040,T-Shirt,Fashion,97.05,Y,452
+P0041,Hair Serum,Beauty,112.88,Y,341
+P0042,Smart Watch,Electronics,233.77,N,169
+P0043,Sunscreen,Beauty,42.84,Y,47
+P0044,Sunscreen,Beauty,103.44,Y,22
+P0045,Backpack,Fashion,238.76,Y,214
+P0046,Water Bottle,Home,201.47,Y,218
+P0047,Sneakers,Fashion,8.14,Y,83
+P0048,Bluetooth Speaker,Electronics,183.99,Y,112
+P0049,Moisturizer,Beauty,231.81,N,58
+P0050,Power Bank,Electronics,204.43,Y,315
+P0051,Hoodie,Fashion,239.27,Y,295
+P0052,T-Shirt,Fashion,135.46,Y,412
+P0053,Storage Organizer,Home,205.21,N,247
+P0054,T-Shirt,Fashion,235.47,Y,255
+P0055,Face Cleanser,Beauty,238.41,Y,410
+P0056,Backpack,Fashion,207.42,Y,432
+P0057,Storage Organizer,Home,120.37,Y,474
+P0058,Webcam,Electronics,130.41,N,380
+P0059,Hair Serum,Beauty,145.11,Y,41
+P0060,Storage Organizer,Home,158.78,Y,396
+P0061,Backpack,Fashion,113.42,N,78
+P0062,Hair Serum,Beauty,244.76,Y,480
+P0063,Backpack,Fashion,82.54,N,450
+P0064,Hair Serum,Beauty,150.4,N,220
+P0065,Bedsheet Set,Home,66.86,Y,172
+P0066,Coffee Maker,Home,87.17,N,436
+P0067,Wireless Earbuds,Electronics,27.87,Y,76
+P0068,Hair Serum,Beauty,224.97,Y,26
+P0069,Power Bank,Electronics,50.97,Y,149
+P0070,T-Shirt,Fashion,169.19,Y,20
+P0071,Bedsheet Set,Home,87.89,Y,298
+P0072,Wireless Earbuds,Electronics,156.68,Y,404
+P0073,Water Bottle,Home,207.45,N,55
+P0074,Wallet,Fashion,78.53,Y,425
+P0075,Sneakers,Fashion,23.72,Y,80
+P0076,Power Bank,Electronics,154.77,Y,16
+P0077,Sunscreen,Beauty,168.93,N,414
+P0078,Sunscreen,Beauty,238.31,Y,150
+P0079,Hair Serum,Beauty,203.29,Y,406
+P0080,T-Shirt,Fashion,58.95,N,76
+P0081,Desk Lamp,Home,27.23,Y,75
+P0082,Power Bank,Electronics,38.52,Y,144
+P0083,T-Shirt,Fashion,148.18,N,222
+P0084,Face Cleanser,Beauty,233.03,Y,479
+P0085,Water Bottle,Home,166.8,Y,80
+P0086,Moisturizer,Beauty,91.51,Y,16
+P0087,Hoodie,Fashion,53.15,N,237
+P0088,Sunscreen,Beauty,116.81,Y,381
+P0089,Sunscreen,Beauty,239.85,Y,3
+P0090,Bedsheet Set,Home,108.62,N,448
+P0091,Sneakers,Fashion,18.17,Y,122
+P0092,Sunscreen,Beauty,227.57,Y,213
+P0093,Wireless Earbuds,Electronics,160.83,Y,409
+P0094,T-Shirt,Fashion,8.66,N,395
+P0095,Storage Organizer,Home,43.77,Y,271
+P0096,Body Lotion,Beauty,248.46,Y,222
+P0097,Power Bank,Electronics,241.32,Y,275
+P0098,Face Cleanser,Beauty,76.85,Y,208
+P0099,Power Bank,Electronics,208.75,N,475
+P0100,Body Lotion,Beauty,146.4,Y,427
+P0101,Water Bottle,Home,72.06,Y,418
+P0102,Coffee Maker,Home,69.5,Y,2
+P0103,Desk Lamp,Home,61.68,N,122
+P0104,Face Cleanser,Beauty,112.06,Y,410
+P0105,Wallet,Fashion,205.09,N,8
+P0106,Wallet,Fashion,168.52,N,297
+P0107,Coffee Maker,Home,168.03,Y,399
+P0108,Smart Watch,Electronics,232.0,N,287
+P0109,Sneakers,Fashion,139.91,Y,7
+P0110,Face Cleanser,Beauty,87.56,Y,484
+P0111,Face Cleanser,Beauty,32.07,Y,86
+P0112,T-Shirt,Fashion,108.57,N,104
+P0113,Bedsheet Set,Home,31.62,Y,158
+P0114,Wireless Earbuds,Electronics,245.84,Y,436
+P0115,Smart Watch,Electronics,23.97,Y,494
+P0116,Desk Lamp,Home,193.11,Y,62
+P0117,Body Lotion,Beauty,37.55,Y,402
+P0118,Bluetooth Speaker,Electronics,198.94,Y,90
+P0119,Moisturizer,Beauty,139.96,Y,371
+P0120,Webcam,Electronics,202.66,Y,32

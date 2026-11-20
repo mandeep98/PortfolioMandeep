@@ -1,0 +1,9 @@
+source_system,file_name,row_count,grain
+crm,customers.csv,2500,one row per customer
+product_catalog,products.csv,120,one row per product
+website_analytics,website_events.csv,19012,one row per website event
+order_management,orders.csv,1167,one row per order
+order_management,order_items.csv,1671,one row per order line item
+payment_gateway,payments.csv,1167,one row per payment transaction
+marketing_platform,campaigns.csv,15,one row per marketing campaign
+marketing_platform,ad_performance.csv,465,one row per campaign per reporting date
